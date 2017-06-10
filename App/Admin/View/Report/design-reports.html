@@ -1,0 +1,82 @@
+<extend name="Public:frame" />
+<block name="content">
+
+<div id="main-layout" class="easyui-layout">
+    <div data-options="region:'west',split:true,iconCls:'icon-page_white_word'" title="报表浏览" style="width:200px;padding:15px;">
+        <div id="report-tables-tree"></div>
+    </div>
+
+    <div data-options="region:'center',noheader:true,iconCls:'icon-table'">
+        <div style="height:100%;">
+            <div id="report-tabs" data-options="plain:true,border:false" class="easyui-tabs" style="height:100%;">
+                <div title="使用帮助" data-options="iconCls:'icon-application_form_edit',closable:true" style="padding:0 20px;display:block;overflow: auto;">
+                    <p>欢迎使用报表系统，使用前请详细阅读本文档：</p>
+                    <p><strong>1.独有的报表查询显示功能</strong>：不用单独开发报表查询显示功能，使用Grid++Report报表组件可以帮您集成一体化实现报表开发中的查询显示、打印与打印预览、数据导出等任务，极大的减少整个报表系统的开发工作量，并能保持报表不同输出方式的一致性。
+                    <p><strong>2.开发动态报表非常方便：</strong>报表定义可以轻松通过编程动态定义。报表在生成时对纸张有自适应能力，报表生成页面与报表设计页面不一样也能得到良好布局的报表，报表打印有多种打印适应策略，横向分页输出功能解决超宽报表打印难题。报表部件有多种自动布局方式，报表内容自动适应变化的输出页面。
+                    <p><strong>3.实现表格报表非常方便</strong>：报表核心组件是一个有丰富数据展现功能的数据网格，轻松实现各种表格报表，不用繁琐的拼凑大量线段去输出表格线，也不存在表格线难对齐的烦恼。克服了其它条幅式报表控件不方便制作表格线报表的缺陷。
+                    <p><strong>4.功能丰富：</strong>支持各种报表内容：图表、条形码、子报表、RTF文本、图像、图形、文字方向与角度、字间距与行间距。支持报表表达式运算、参数报表。数据导出格式包括：Excel、PDF、多种格式图像、文本、html、CSV等。提供专用报表文档格式生成与查看，保存报表运行历史结果。
+                    <p><strong>5.报表数据来源丰富，支持绑定与非绑定,数据源既支持拉模式又支持推模式：</strong>设定报表的
+                        OLE DB 数据源连接串与查询SQL，报表在运行时自动从数据源提取数据。也可以在报表取数事件中提供报表明细数据，编程工具中所有可以访问的数据都可以提供给报表。
+                    <p><strong>6.实现自由排列报表也一样方便</strong>：只要将明细网格的格设为自由格，就可以像其它的条幅式报表工具一样自由编排报表，既方便实现中国式表格报表，也能实现格式自由编排报表。
+                    <p><strong>7.针对票据套打进行专门的实现</strong>：提供专门用于票据套打设计的页面视图，如果将空白票据扫描图像作为设计背景图，可以快捷准确定位报表输出位置。报表元素可以指定打印类别，非套打内容在套打输出时不会打印。
+                    <p><strong>8.报表查询显示时可以与用户的交互：</strong>在报表查选显示时的事件中可以实现穿透到下级明细报表或数据，实现报表的透视查询，达到报表数据的追本溯源。
+                    <p><strong>9.适用开发工具广泛</strong>：桌面开发：VB.NET、C#.NET、VB、VC、Delphi、C++Builder、Visual
+                        Foxpro、易语言等支持 COM 的开发工具。WEB开发：ASP、ASP.NET、JSP、PHP、JavaScript、VBScript等。提供了大量的例子报表与每种开发工具下的大量例子程序。
+                    <p><strong>10.系统稳定，运行性能高：</strong>拥有了雄厚的用户基础，众多领域应用。采用
+                        VC++/ATL/WTL/COM 开发，保证了良好运行性能。
+                    <p><strong>11.重新发布简单，分发完全免费</strong>：发布文件小并且不依赖任何运行时库，可以在所有
+                        Windows
+                        操作系统下运行，最终发布文件只有报表引擎与报表设计器两个动态库（DLL）文件。
+                    <p><strong>12.WEB报表发布包(CAB文件)正规数字签名：</strong>用户下载更方便更安全。</p>
+                    <p><strong>13.多国语言集成支持</strong>，方便开发多语言版软件。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+</block>
+
+<block name="script">
+    <script type="text/javascript">
+        $(function () {
+
+            $('#main-layout').layout({
+                height : '100%'
+            });
+
+            $('#report-tables-tree').tree({
+                url : './getReportsTree',
+                lines: true,
+                onLoadSuccess : function ( node, data ) {
+                    if (data) {
+                        $(data).each(function (index, value) {
+                            if (this.state == 'closed') {
+                                $('#nav').tree('expandAll');
+                            }
+                        });
+                    }
+                },
+                onClick : function ( node ) {
+                    $tabs = $('#report-tabs');
+                    if ( node.type == 2 ) {
+                        if ($tabs.tabs('exists', node.text)){
+                            $tabs.tabs('select', node.text);
+                        } else {
+                            $tabs.tabs('add', {
+                                title    : node.text,
+                                iconCls  : node.iconCls,
+                                height : '100%',
+                                closable : true,
+                                content  : '<iframe src="/Admin/Report/designOneReport?id=' + node.id + '" scrolling="no" frameborder="0" style="width:100%;height:100%;">'
+                            });
+                        }
+                    }
+                }
+            });
+
+        });
+    </script>
+</block>

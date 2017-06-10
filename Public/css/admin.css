@@ -1,0 +1,25 @@
+body{font-size:12px;}
+a,a:hover{text-decoration: none;}
+/* login  */
+.top-block{background: #008ead;width: 100%;height: 350px;}
+.form-table{margin:-100px auto auto;width: 400px;border:1px solid rgb(231, 231, 231);border-image: none;text-align: center;background:#fff;}
+.form-table-bd{z-index:1000;}
+.form-tt{height:30px;line-height:30px;color:#666;font-size:18px;}
+.form-control{position:relative;margin: 15px 80px;}
+.form-footer{height: 50px; line-height: 50px; margin-top: 20px; border-top-color: rgb(231, 231, 231); border-top-width: 1px; border-top-style: solid;}
+.form-footer p{margin: 0px 50px}
+.info-left,.info-right{color:#999;}
+.info-left{float:left;}
+.info-right{float:right;}
+#btn-login{cursor:pointer;background: rgb(0, 142, 173); padding: 7px 10px; border-radius: 4px; border: 1px solid rgb(26, 117, 152); border-image: none; color: rgb(255, 255, 255); font-weight: bold;}
+/* index */
+.header{height:40px;line-height:40px;overflow:hidden;font-size:16px;background: #edf4ff;border:none;}
+.header-logo{height:40px;width:195px;float:left;padding-left:10px;}
+.header-userinfo{float:right;margin-right: 10px;}
+.header-userinfo a{color:#fff;text-decoration:none;}
+#main-header-menu{float:right;padding-right:10px;}
+#main-tabs .tabs-panels >.panel >.panel-body{overflow:hidden;}
+/* user setting */
+form table tr { height: 45px;}
+
+

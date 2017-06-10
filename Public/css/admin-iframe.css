@@ -1,0 +1,17 @@
+*{padding:0;margin:0;}
+body,textarea,input{font-size: 12px;}
+iframe{padding:0;margin:0;}
+.iframe .datagrid .panel-body{border:none;}
+.easyui-linkbutton {padding:0 10px;}
+form table tr{height:45px;}
+form table tr input{height:20px;line-height:20px;}
+.datagrid-tool-btn:hover{ padding: 0 9px; }
+.datagrid-cell-btn{padding:5px 10px;border-radius:5px;text-decoration:none;cursor:pointer;}
+.datagrid-cell-btn{transition:all ease .3s;}
+.btn-success{color:#fff;background: #009768;}
+.btn-success:hover{background: #008159;}
+.btn-danger{color:#fff;background: #c0364a;}
+.btn-danger:hover{background: #9f2e42;}
+.btn{display:inline;padding:4px 14px;border-radius:5px;cursor:pointer;}
+#employee-workdata-tables-tabs .tabs-panels >.panel >.panel-body{overflow:hidden;}
+#report-tabs .tabs-panels >.panel >.panel-body{overflow:hidden;}

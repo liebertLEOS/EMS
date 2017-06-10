@@ -1,0 +1,111 @@
+<extend name="Public/base"/>
+
+<block name="body">
+    <ul class="nav nav-pills nav-justified">
+        <li class="disabled"><a href="javascript:;">1.环境检测</a></li>
+        <li class="disabled active"><a href="javascript:;">2.创建数据库</a></li>
+        <li class="disabled"><a href="javascript:;">3.<eq name="Think.session.update" value="1">升级<else/>初始化系统</eq></a></li>
+        <li class="disabled"><a href="javascript:;">4.升级完成</a></li>
+    </ul>
+
+    <?php
+        defined('SAE_MYSQL_HOST_M') or define('SAE_MYSQL_HOST_M', '127.0.0.1');
+        defined('SAE_MYSQL_HOST_M') or define('SAE_MYSQL_PORT', '3306');
+    ?>
+    <form action="__SELF__" method="post" target="_self" class="form-horizontal">
+        <div class="create-database">
+            <h2>系统初始化信息</h2>
+            <div class="form-group">
+                <lablel class="col-sm-4 control-label">数据库类型</lablel>
+                <div class="controls col-sm-5">
+                    <select name="db[]" class="form-control">
+                        <option>mysql</option>
+                    </select>
+                    <div class="help-block">默认为MySQL数据库</div>
+                </div>
+            </div>
+            <div class="form-group">
+                <lablel class="col-sm-4 control-label">数据库服务器</lablel>
+                <div class="controls col-sm-5">
+                    <input type="text" name="db[]" value="<defined name='SAE_MYSQL_HOST_M'>{$Think.const.SAE_MYSQL_HOST_M}<else/>127.0.0.1</defined>" class="form-control">
+                    <div class="help-block">数据库服务器，数据库服务器IP，一般为127.0.0.1</div>
+                </div>
+
+            </div>
+            <div class="form-group">
+                <lablel class="col-sm-4 control-label">数据库名</lablel>
+                <div class="controls col-sm-5">
+                    <input type="text" name="db[]" value="ems" class="form-control">
+                    <div class="help-block">默认为ems</div>
+                </div>
+
+            </div>
+            <div class="form-group">
+                <lablel class="col-sm-4 control-label">数据库用户名</lablel>
+                <div class="controls col-sm-5">
+                    <input type="text" name="db[]" value="<defined name='SAE_MYSQL_USER'>{$Think.const.SAE_MYSQL_USER}</defined>" class="form-control">
+                    <div class="help-block">安装数据库时创建的用户名</div>
+                </div>
+            </div>
+            <div class="form-group">
+                <lablel class="col-sm-4 control-label">数据库密码</lablel>
+                <div class="controls col-sm-5">
+                    <input type="password" name="db[]" value="<defined name='SAE_MYSQL_PASS'>{$Think.const.SAE_MYSQL_PASS}</defined>" class="form-control">
+                    <div class="help-block">安装数据库时创建的用户密码</div>
+                </div>
+            </div>
+            <div class="form-group">
+                <lablel class="col-sm-4 control-label">数据库端口</lablel>
+                <div class="controls col-sm-5">
+                    <input type="text" name="db[]" value="<defined name='SAE_MYSQL_PORT'>{$Think.const.SAE_MYSQL_PORT}<else/>3306</defined>" class="form-control">
+                    <div class="help-block">数据库服务连接端口，一般为3306</div>
+                </div>
+            </div>
+            <div class="form-group">
+                <lablel class="col-sm-4 control-label">数据表前缀</lablel>
+                <div class="controls col-sm-5">
+                    <input type="text" name="db[]" value="ems_" class="form-control">
+                    <div class="help-block">同一个数据库运行多个系统时请修改为不同的前缀</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="create-database">
+            <h2>管理员帐号信息</h2>
+            <div class="form-group">
+                <lablel class="col-sm-4 control-label">系统管理员账号</lablel>
+                <div class="controls col-sm-5">
+                    <input type="text" name="admin[]" value="admin" class="form-control">
+                    <div class="help-block"></div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <lablel class="col-sm-4 control-label">系统管理员密码</lablel>
+                <div class="controls col-sm-5">
+                    <input type="password" name="admin[]" value="" class="form-control">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <lablel class="col-sm-4 control-label">确认密码</lablel>
+                <div class="controls col-sm-5">
+                    <input type="password" name="admin[]" value="" class="form-control">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <lablel class="col-sm-4 control-label">邮箱</lablel>
+                <div class="controls col-sm-5">
+                    <input type="text" name="admin[]" value="" class="form-control">
+                    <div class="help-block">请填写正确的邮箱便于收取提醒邮件</div>
+                </div>
+            </div>
+        </div>
+    </form>
+    <div class="actions">
+        <a class="btn btn-default" href="{:U('Install/step1')}">上一步</a>
+        <button id="submit" type="button" class="btn btn-primary" onclick="$('form').submit();return false;">下一步</button>
+    </div>
+</block>
+

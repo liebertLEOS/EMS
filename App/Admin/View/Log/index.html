@@ -1,0 +1,23 @@
+<extend name="Public:frame" />
+<block name="content">
+    <div id="tool" style="padding:5px;">
+        <div  style="margin-bottom:5px;height:30px;line-height:30px;">
+            <a href="#" class="easyui-linkbutton" iconCls="icon-no" onclick="Tool.delete();">删除</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-reload" onclick="Tool.reload();">刷新</a>
+        </div>
+        <div id="tool-query">
+            <span>发生时间：
+                <input type="text" name="date-from" class="easyui-datebox" editable="false" style="width:110px;"> —
+                <input type="text" name="date-to" class="easyui-datebox" editable="false" style="width:110px;">
+            </span>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-search" onclick="Tool.query();">查询</a>
+        </div>
+    </div>
+    <div style="height:100%;">
+        <table id="table"></table>
+    </div>
+</block>
+
+<block name="script">
+    <script type="text/javascript" src="__PUBLIC__/js/admin/log/index.js"></script>
+</block>

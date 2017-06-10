@@ -1,6 +1,4 @@
-# EMS
-Employee Management System based on ThinkPHP
-#########################################################################################
+﻿#########################################################################################
 #
 #                                     安装说明
 # Author: liebert
@@ -115,4 +113,5 @@ Employee Management System based on ThinkPHP
 
     13.修改了数据库更新函数
     /App/Install/Common/function.php  -U-
+
 

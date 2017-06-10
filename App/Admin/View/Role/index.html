@@ -1,0 +1,18 @@
+<extend name="Public:frame" />
+<block name="content">
+    <div id="tool" style="padding:5px;">
+        <div  style="margin-bottom:5px;height:30px;line-height:30px;">
+            <a href="#" class="easyui-linkbutton" iconCls="icon-add-new" onclick="Tool.add();">添加</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-delete" onclick="Tool.delete();">删除</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-arrow_refresh" onclick="Tool.reload();">刷新</a>
+        </div>
+    </div>
+
+    <div style="height:100%;">
+        <table id="table"></table>
+    </div>
+</block>
+
+<block name="script">
+    <script type="text/javascript" src="__PUBLIC__/js/admin/role/index.js"></script>
+</block>

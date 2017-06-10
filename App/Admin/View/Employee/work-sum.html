@@ -1,0 +1,24 @@
+<extend name="Public:frame" />
+<block name="content">
+<div style="height:100%;">
+    <div id="tool" style="padding:5px;">
+        <div id="tool-query">
+            <span>
+                <span>员工姓名：<input type="text" name="name" class="textbox" style="width:100px;height:24px;"></span>
+                <span>身份证号码：<input type="text" name="idcard" class="textbox" style="width:200px;height:24px;"></span>
+                <span>时间：
+                    <input type="text" name="time-from" class="easyui-datebox" editable="false" style="width:110px;"> —
+                    <input type="text" name="time-to" class="easyui-datebox" editable="false" style="width:110px;">
+                </span>
+            </span>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-search" onclick="tool.query();">查询</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-reload" onclick="tool.reload();">刷新</a>
+        </div>
+    </div>
+    <div id="table"></div>
+</div>
+</block>
+
+<block name="script">
+    <script type="text/javascript" src="__PUBLIC__/js/admin/employee/work-sum.js"></script>
+</block>

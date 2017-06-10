@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>EMS安装</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <!-- Le styles -->
+        <link href="__STATIC__/bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="__STATIC__/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+        <link href="__PUBLIC__/css/install.css" rel="stylesheet">
+
+        <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+        <script src="__STATIC__/html5shiv.js"></script>
+        <![endif]-->
+        <script src="__STATIC__/jquery-1.10.2.min.js"></script>
+        <script src="__STATIC__/bootstrap/js/bootstrap.js"></script>
+    </head>
+    <body>
+        <div class="paper">
+            <div class="paper-heading">
+                <h1>
+                    <span class="brand">EMS 员工管理系统</span>
+                    <span class="text-muted"><eq name="Think.session.update" value="1">升级<else/>安装</eq>向导 <small class="text-info">V1.0</small></span>
+                </h1>
+            </div>
+            <div class="paper-body">
+                <block name="body"></block>
+            </div>
+        </div>
+
+    </body>
+</html>
