@@ -676,4 +676,153 @@ class EmployeeController extends BaseController {
         return $sumWages;
     }
 
+    /**
+     * importData
+     * @description 导入数据
+     * @return response 窗体界面html
+     */
+    public function importData(){
+        $this->display('import-data');
+    }
+
+    /**
+     * uploadFiles
+     * @description 上传的excel文件
+     */
+    public function uploadFiles(){
+        // upload file
+        if ( !empty($_FILES['files']['tmp_name']) ){
+            $upload = new \Think\Upload();
+            $upload->maxSize   = 10485760;//10M
+            $upload->exts      = array('xls', 'xlsx');
+            $upload->rootPath  = C('UPLOAD_EXCEL');
+            $upload->autoSub   = false;
+            $upload->saveName  = '';
+            $fileinfo = $upload->upload();
+
+            if(!$fileinfo){
+                $this->ajaxReturn(array(
+                    'state' => 0,
+                    'msg'   => '文件上传失败：'.$fileinfo
+
+                ));
+            }
+
+            $this->ajaxReturn( array(
+                "state" => 1,
+                "msg"   => '上传成功！'
+            ) );
+        }
+        $this->ajaxReturn( array(
+            "state" => 0,
+            "msg"   => '没有文件要上传！'
+        ) );
+
+    }
+
+    /**
+     * getUploadedFiles
+     * @description 获取已上传的excel文件列表
+     */
+    public function getUploadedFiles(){
+        $path = C('UPLOAD_EXCEL');
+        //$path = realpath($path);
+        $files = new \FilesystemIterator($path, \FilesystemIterator::KEY_AS_FILENAME);
+        $list = array();
+        foreach ($files as $name => $file) {
+            $list[] = array(
+                'name'  => $file->getFilename(),
+                'mtime' => date('Y/m/d H:i',$file->getMTime()),
+                'size'  => $file->getSize()
+            );
+        }
+
+        // response
+        if( IS_AJAX ) {
+            $this->ajaxReturn( array(
+                "total" => count($list),
+                "rows"  => $list
+            ) );
+        } else {
+            return array(
+                "total" => count($list),
+                "rows"  => $list
+            );
+        }
+
+    }
+
+    /**
+     * deleteUploadedFiles
+     * @description 删除上传文件
+     */
+    public function deleteUploadedFiles(){
+        $files = $_POST['files'];
+
+        if( $files ){
+            $path = C('UPLOAD_EXCEL');
+
+            foreach ( $files as $file ){
+                unlink($path.$file);
+            }
+
+            $this->ajaxReturn( array(
+                "state" => 1,
+                "msg"   => '删除成功！'
+            ) );
+        }
+        $this->ajaxReturn( array(
+            "state" => 0,
+            "msg"   => '参数不合法！'
+        ) );
+    }
+
+    /**
+     * getDataFromFile
+     * @description 打开Excel表格，获取数据
+     * @return response 返回数据数组
+     */
+    public function getDataFromFile( $f ){
+
+        $file = C('UPLOAD_EXCEL').$f;
+        if ( !file_exists($file) ) {
+            $this->ajaxReturn( array(
+                "state" => 0,
+                "msg"   => '文件不存在！'
+            ) );
+        }
+
+        // load phpexcel portal file
+        require_once '/Classes/PHPExcel.php';
+        //require_once '/Classes/PHPExcel/IOFactory.php';
+
+        $objReader = \PHPExcel_IOFactory::createReader('Excel2007');
+        $objReader->setReadDataOnly(true);
+
+        $objPHPExcel = $objReader->load($file);
+        //$objPHPExcel->setActiveSheetIndex(1);
+        $objWorksheet = $objPHPExcel->getActiveSheet();
+
+        $data = array();
+        foreach($objWorksheet->getRowIterator() as $row){
+            $cellIterator = $row->getCellIterator();
+            $cellIterator->setIterateOnlyExistingCells(false);
+            $row = array();
+            foreach($cellIterator as $cell){
+                $row[]=$cell->getValue();
+            }
+            $data[] = $row;//array_push($data, $row);
+        }
+
+        // remove the 1st row
+        array_shift($data);
+
+        $this->ajaxReturn( array(
+            "state" => 1,
+            "data"  => $data,
+            "msg"   => '读取成功！'
+        ) );
+
+    }
+
 }

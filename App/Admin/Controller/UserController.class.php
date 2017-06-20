@@ -105,7 +105,7 @@ class UserController extends BaseController {
             $upload = new \Think\Upload();
             $upload->maxSize   = 1048576;//1M
             $upload->exts      = array('jpg', 'gif', 'png', 'jpeg');
-            $upload->rootPath  = './Uploads/user/';
+            $upload->rootPath  = C('UPLOAD_USER');
             $fileinfo = $upload->uploadOne($_FILES['userpic']);
 
             if(!$fileinfo){
@@ -115,7 +115,7 @@ class UserController extends BaseController {
 
                 ));
             }
-            $data['userpic'] = '/uploads/user/'.$fileinfo['savepath'].$fileinfo['savename'];
+            $data['userpic'] = C('UPLOAD_USER').$fileinfo['savepath'].$fileinfo['savename'];
         } else {
             $data['userpic'] =  C('USER_DEFAULT_IMG');
         }
@@ -186,7 +186,7 @@ class UserController extends BaseController {
             $upload = new \Think\Upload();
             $upload->maxSize   = 1048576;//1M
             $upload->exts      = array('jpg', 'gif', 'png', 'jpeg');
-            $upload->rootPath  = './Uploads/user/';
+            $upload->rootPath  = C('UPLOAD_USER');
             $fileinfo = $upload->uploadOne($_FILES['userpic']);
 
             if(!$fileinfo){
@@ -196,7 +196,7 @@ class UserController extends BaseController {
 
                 ));
             }
-            $data['userpic'] = '/uploads/user/'.$fileinfo['savepath'].$fileinfo['savename'];
+            $data['userpic'] = C('UPLOAD_USER').$fileinfo['savepath'].$fileinfo['savename'];
         }
 
         if(!empty($data['password'])) $data['password'] = user_md5($data['password'], C('DATA_AUTH_KEY'));

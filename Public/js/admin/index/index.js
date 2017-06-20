@@ -86,7 +86,7 @@ $(function () {
                     handler : function () {
                         $('#form').dialog('close');
                     },
-                }],
+                }]
             });
         }
     }
