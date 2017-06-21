@@ -5,7 +5,7 @@
         <div style="height:100%;">
             <div id="uploaded-files-tool" style="padding:10px;">
                 <form id="uploaded-files-form" method="post" enctype="multipart/form-data" style="display:inline-block;">
-                    <input name="files[]" class="easyui-filebox" data-options="buttonText:'选择文件',width:'180px',required:true,multiple:true,accept:'xls|xlsx'">
+                    <input name="files[]" class="easyui-filebox" data-options="buttonText:'选择文件',width:'180px',required:true,multiple:true,accept:'application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'">
                 </form>
                 <a href="#" class="easyui-linkbutton" iconCls="icon-page_white_get" onclick="uploadedFilesTool.upload();">上传</a>
                 <a href="#" class="easyui-linkbutton" iconCls="icon-delete" onclick="uploadedFilesTool.delete();">删除</a>
