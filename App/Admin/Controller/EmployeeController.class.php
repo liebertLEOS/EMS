@@ -796,11 +796,22 @@ class EmployeeController extends BaseController {
         require_once '/Classes/PHPExcel.php';
         //require_once '/Classes/PHPExcel/IOFactory.php';
 
-        $objReader = \PHPExcel_IOFactory::createReader('Excel2007');
+        $excel_ext = substr(strrchr($f, '.'), 1);
+        if($excel_ext=="xlsx"){
+            $objReader = \PHPExcel_IOFactory::createReader('Excel2007');
+        }elseif($excel_ext=="xls"){
+            $objReader = \PHPExcel_IOFactory::createReader('Excel5');
+        }else{
+            $this->ajaxReturn( array(
+                "state" => 0,
+                "msg"   => '文件格式错误！'
+            ) );
+        }
+
         $objReader->setReadDataOnly(true);
 
         $objPHPExcel = $objReader->load($file);
-        //$objPHPExcel->setActiveSheetIndex(1);
+        //$objPHPExcel->setActiveSheetIndex(0);
         $objWorksheet = $objPHPExcel->getActiveSheet();
 
         $data = array();
