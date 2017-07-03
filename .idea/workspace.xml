@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15b5337-3610-4db6-8e53-b548db6c727b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Model/EmployeeWorkerViewModel.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/js/admin/employee/worker-leader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vs/EMS/v15/.suo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vs/EMS/v15/Browse.VC.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vs/ProjectSettings.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/App/Common/Conf/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/20170618-165930/20170618-165930-1.sql.gz" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Data/install.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/js/admin/employee/worker-category.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Public/js/admin/employee/worker-extend.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Uploads/excel/2017-05-01.xlsx" afterPath="$PROJECT_DIR$/Uploads/excel/2017-05-01.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Admin/Controller/EmployeeController.class.php" afterPath="$PROJECT_DIR$/App/Admin/Controller/EmployeeController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Admin/View/Employee/worker.html" afterPath="$PROJECT_DIR$/App/Admin/View/Employee/worker.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Install/Common/function.php" afterPath="$PROJECT_DIR$/App/Install/Common/function.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Install/Data/conf.tpl" afterPath="$PROJECT_DIR$/App/Install/Data/conf.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Install/Data/install.sql" afterPath="$PROJECT_DIR$/App/Install/Data/install.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/js/admin/employee/import-data.js" afterPath="$PROJECT_DIR$/Public/js/admin/employee/import-data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/js/admin/employee/work-sum.js" afterPath="$PROJECT_DIR$/Public/js/admin/employee/work-sum.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/js/admin/employee/worker.js" afterPath="$PROJECT_DIR$/Public/js/admin/employee/worker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/js/admin/employee/worktime.js" afterPath="$PROJECT_DIR$/Public/js/admin/employee/worktime.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Auth.class.php" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Auth.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -230,12 +215,12 @@
       <workItem from="1497774622354" duration="4321000" />
       <workItem from="1497792963061" duration="16320000" />
       <workItem from="1497945520708" duration="22068000" />
-      <workItem from="1499002415067" duration="20271000" />
+      <workItem from="1499002415067" duration="20310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64038000" />
+    <option name="totallyTimeSpent" value="64077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
