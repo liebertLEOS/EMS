@@ -92,10 +92,10 @@ $(function () {
                                     title : '姓名',
                                     width : 200,
                                     align : 'center'
-                                },
+                                }
                             ]],
                             onSelect : function( rowIndex, rowData ){
-                                if( rowData.workerid == '' ) return;
+                                if( rowData.id == '' ) return;
                                 var editors  = $('#table').edatagrid('getEditors', editRowIndex);
                                 var workerid = editors[2];
                                 workerid.target.val(rowData.id);
@@ -317,11 +317,6 @@ $(function () {
                     hidden: true
                 }
             ]],
-            rowStyler : function( index, row ){
-                if ( row.categoryid > 1 ) {
-                    return 'background-color:#e0f8fa;';
-                }
-            },
             onClickRow : function( rowIndex, rowData ){
                 $(this).edatagrid('unselectRow', rowIndex);
             },
@@ -407,6 +402,7 @@ $(function () {
                             $('#tool-delete').linkbutton('disable');
                             $('#tool-cancel').linkbutton('disable');
                             $('#tool-save').linkbutton('disable');
+                            $.messager.alert('提示！', response.msg, 'info');
                         } else {
                             $.messager.alert('错误！', response.msg, 'error');
                         }

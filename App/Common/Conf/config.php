@@ -33,7 +33,7 @@ return array(
     'DEFAULT_FILTER' => '', //全局过滤函数
 
     /* 系统数据加密设置 */
-    'DATA_AUTH_KEY' => '!(*LmaojI0n+r)4s5N{xVp%,tK|?SUe2i"YFA~_b', //默认数据加密KEY
+    'DATA_AUTH_KEY' => '~T!3l$oCk{PL|"6-If_j9=V#nrEN.Y:x4aG2hp1[', //默认数据加密KEY
 
     /* 数据库配置 */
     'DB_TYPE'   => 'mysql', // 数据库类型

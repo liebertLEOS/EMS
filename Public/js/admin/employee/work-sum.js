@@ -210,13 +210,6 @@ $(function () {
                 align : 'right'
             },
             {
-                field : 'commission',
-                title : '工头提成',
-                width : 100,
-                halign : 'center',
-                align : 'right'
-            },
-            {
                 field : 'worktime_wages',
                 title : '员工工时工资/元',
                 width : 100,

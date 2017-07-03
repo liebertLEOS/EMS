@@ -31,7 +31,7 @@ $(function () {
         };
 
         $('#table').edatagrid({
-            url : './getWorker',
+            url : './getWorker?cate=1',
             fit : true,
             fitColumns : false,
             striped : true,
@@ -77,15 +77,15 @@ $(function () {
                     }
                 },
                 {
-                    field : 'originid',
-                    title : '工头ID',
+                    field : 'originname',
+                    title : '工头姓名',
                     width : 100,
                     align : 'center',
                     sortable : true,
                     editor:{
                         type : 'combogrid',
                         options : {
-                            url : './getWorkerList',
+                            url : './getWorkerList?cate=2',
                             mode : 'remote',
                             delay : 1000,
                             panelWidth  : 350,
@@ -116,8 +116,23 @@ $(function () {
                                     halign: 'center',
                                     align : 'left'
                                 }
-                            ]]
+                            ]],
+                            onSelect : function( rowIndex, rowData ){
+                                if( rowData.id == '' ) rowData.id = 0;
+                                var editors  = $('#table').edatagrid('getEditors', editRowIndex);
+                                var originid = editors[2];
+                                originid.target.val(rowData.id);
+                            }
                         }
+                    }
+                },
+                {
+                    field : 'originid',
+                    title : '工头ID',
+                    width : 80,
+                    align : 'center',
+                    editor:{
+                        type : 'text'
                     }
                 },
                 {
@@ -136,31 +151,6 @@ $(function () {
                     halign : 'center',
                     editor:{
                         type : 'text'
-                    }
-                },
-                {
-                    field : 'categoryid',
-                    title : '员工类别',
-                    width : 80,
-                    align : 'center',
-                    sortable : true,
-                    editor:{
-                        type : 'combobox',
-                        options : {
-                            required : true,
-                            valueField : 'value',
-                            textField  : 'text',
-                            data : [
-                                {
-                                    value: 1,
-                                    text: '普通员工'
-                                },
-                                {
-                                    value: 2,
-                                    text: '员工工头'
-                                }
-                            ]
-                        }
                     }
                 },
                 {
@@ -263,11 +253,6 @@ $(function () {
                     }
                 }
             ]],
-            rowStyler : function( index, row ){
-                if ( row.originid == 0 ) {
-                    return 'background-color:#e0f8fa;';
-                }
-            },
             onClickRow:function( rowIndex, rowData ){
                 $(this).edatagrid('unselectRow', rowIndex);
             },
@@ -347,7 +332,7 @@ $(function () {
                     if ( updated.length > 0 ) {
                         data['updated'] = JSON.stringify(updated);
                     }
-                    $.post( './batchProcessWorker', data, function( response ) {
+                    $.post( './batchProcessWorker?cate=1', data, function( response ) {
                         $('#table').edatagrid('loaded');
                         if( response.state ) {
                             $('#table').edatagrid('load');
@@ -356,6 +341,7 @@ $(function () {
                             $('#tool-delete').linkbutton('disable');
                             $('#tool-cancel').linkbutton('disable');
                             $('#tool-save').linkbutton('disable');
+                            $.messager.alert('提示！', response.msg, 'info');
                         } else {
                             $.messager.alert('错误！', response.msg, 'error');
                         }

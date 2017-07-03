@@ -33,5 +33,10 @@
 </block>
 
 <block name="script">
-    <script type="text/javascript" src="__PUBLIC__/js/admin/employee/worker.js"></script>
+    <eq name="cate" value="2">
+        <script type="text/javascript" src="__PUBLIC__/js/admin/employee/worker-leader.js"></script>
+    <else />
+        <script type="text/javascript" src="__PUBLIC__/js/admin/employee/worker.js"></script>
+    </eq>
+
 </block>

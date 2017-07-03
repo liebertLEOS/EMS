@@ -200,6 +200,12 @@ function create_tables($db, $prefix = ''){
     }
 }
 
+/**
+ * 注册管理员账号
+ * @param  resource $db 数据库连接资源
+ * @param  resource $prefix 数据库前缀
+ * @author liebert
+ */
 function register_administrator($db, $prefix, $admin, $auth){
     show_msg('开始注册创始人帐号...');
     $sql = "INSERT INTO `[PREFIX]admin_user` VALUES " .

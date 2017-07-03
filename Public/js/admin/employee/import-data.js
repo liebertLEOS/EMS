@@ -80,15 +80,12 @@ $(function () {
                 },
                 {
                     field : '0',
-                    title : '时间',
+                    title : '员工ID',
                     width : 100,
                     halign : 'center',
                     editor:{
-                        type : 'datebox',
-                        options : {
-                            tipPosition : 'top',
-                            required : true
-                        }
+                        type : 'text',
+                        required : true
                     }
                 },
                 {
@@ -130,7 +127,7 @@ $(function () {
                             onSelect : function( rowIndex, rowData ){
                                 if( rowData.workerid == '' ) return;
                                 var editors  = $('#data-list').edatagrid('getEditors', editRowIndex);
-                                var workerid = editors[2];
+                                var workerid = editors[0];
                                 workerid.target.val(rowData.id);
                             }
                         }
@@ -138,12 +135,15 @@ $(function () {
                 },
                 {
                     field : '2',
-                    title : '员工ID',
+                    title : '时间',
                     width : 100,
                     halign : 'center',
                     editor:{
-                        type : 'text',
-                        required : true
+                        type : 'datebox',
+                        options : {
+                            tipPosition : 'top',
+                            required : true
+                        }
                     }
                 },
                 {
@@ -449,6 +449,22 @@ $(function () {
         dataListTool = {
             done : function () {
                 $('#data-list').edatagrid('saveRow');
+            },
+            // save the data to db
+            import : function(){
+                $('#data-list').edatagrid('loading');
+
+                var  rows = $('#data-list').edatagrid('getChecked');
+                var data = {};
+                data['dataset'] = JSON.stringify(rows);
+                $.post( '../Employee/saveWorktimeData', data, function( response ) {
+                    $('#data-list').edatagrid('loaded');
+                    if( response.state ) {
+                        $.messager.alert('提示！', response.msg, 'info');
+                    } else {
+                        $.messager.alert('提示！', response.msg, 'error');
+                    }
+                } );
             }
         }
     });

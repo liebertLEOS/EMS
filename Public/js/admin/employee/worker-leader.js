@@ -31,7 +31,7 @@ $(function () {
         };
 
         $('#table').edatagrid({
-            url : './getWorkerExtend',
+            url : './getWorker?cate=2',
             fit : true,
             fitColumns : false,
             striped : true,
@@ -48,6 +48,11 @@ $(function () {
             checkOnSelect : false,
             columns : [[
                 {
+                    field : 'check',
+                    title : 'check',
+                    checkbox : true
+                },
+                {
                     field : 'id',
                     title : 'ID',
                     width : 80,
@@ -60,21 +65,62 @@ $(function () {
                     title : '姓名',
                     width : 100,
                     halign : 'center',
-                    sortable : true
+                    sortable : true,
+                    editor:{
+                        type : 'validatebox',
+                        options : {
+                            required : true,
+                            validType : 'length[0,50]',
+                            tipPosition : 'top',
+                            invalidMessage : '长度不能超过50个字符'
+                        }
+                    }
                 },
                 {
-                    field : 'categoryid',
-                    title : '员工类别',
-                    width : 80,
-                    align : 'center',
-                    sortable : true,
-                    formatter : function( value, row, index ){
-                        if( value == 1 ) {
-                            return '普通员工';
-                        } else if ( value == 2 ) {
-                            return '员工工头';
-                        } else {
-                            return value;
+                    field : 'idcard',
+                    title : '身份证号码',
+                    width : 250,
+                    halign : 'center',
+                    editor:{
+                        type : 'text'
+                    }
+                },
+                {
+                    field : 'phone',
+                    title : '联系电话',
+                    width : 150,
+                    halign : 'center',
+                    editor:{
+                        type : 'text'
+                    }
+                },
+                {
+                    field : 'undercontractwage',
+                    title : '未满协议工价',
+                    width : 100,
+                    halign : 'center',
+                    align : 'right',
+                    editor:{
+                        type : 'numberbox',
+                        options : {
+                            value : 0,
+                            groupSeparator : ',',
+                            precision : 2
+                        }
+                    }
+                },
+                {
+                    field : 'fullagreementwage',
+                    title : '满协议工价',
+                    width : 100,
+                    halign : 'center',
+                    align : 'right',
+                    editor:{
+                        type : 'numberbox',
+                        options : {
+                            value : 0,
+                            groupSeparator : ',',
+                            precision : 2
                         }
                     }
                 },
@@ -93,6 +139,75 @@ $(function () {
                         }
                     }
                 },
+                {
+                    field : 'deliverydate',
+                    title : '送厂日期',
+                    width : 100,
+                    halign : 'center',
+                    align : 'center',
+                    sortable : true,
+                    editor:{
+                        type : 'datebox',
+                        tipPosition : 'top',
+                        required : true
+                    }
+                },
+                {
+                    field : 'terminationdate',
+                    title : '合同终止日期',
+                    width : 100,
+                    halign : 'center',
+                    align : 'center',
+                    sortable : true,
+                    editor:{
+                        type : 'datebox',
+                        tipPosition : 'top',
+                        required : true
+                    }
+                },
+                {
+                    field : 'isinservice',
+                    title : '是否在职',
+                    width : 80,
+                    align : 'center',
+                    halign : 'center',
+                    sortable : true,
+                    editor:{
+                        type : 'checkbox',
+                        options : {
+                            on  : 'Y',
+                            off : 'N'
+                        }
+                    }
+
+                },
+                {
+                    field : 'factory',
+                    title : '工厂',
+                    width : 200,
+                    halign : 'center',
+                    editor:{
+                        type : 'text',
+                        options : {
+                            required : true,
+                            validType : 'length[0,255]',
+                            tipPosition : 'top',
+                            invalidMessage : '长度不能超过255个字符'
+                        }
+                    }
+                },
+                {
+                    field : 'addedinfo',
+                    title : '备注',
+                    width : 300,
+                    editor:{
+                        type : 'validatebox',
+                        options : {
+                            validType : 'length[0,255]',
+                            invalidMessage : '长度不能超过255个字符'
+                        }
+                    }
+                }
             ]],
             rowStyler : function( index, row ){
                 if ( row.originid == 0 ) {
@@ -139,6 +254,12 @@ $(function () {
         });
 
         tool = {
+            add : function(){
+                $('#table').edatagrid('addRow');
+            },
+            delete : function(){
+                $('#table').edatagrid('destroyRow');
+            },
             reload : function(){
                 $('#tool-query input').val('');
                 $('#table').edatagrid('load',{});
@@ -158,13 +279,21 @@ $(function () {
                 var rowsChanged = $edataGrid.edatagrid( 'getChanges' );
                 if ( rowsChanged.length > 0 ) {
                     $('#table').edatagrid('loading');
+                    var inserted = $edataGrid.edatagrid( 'getChanges', 'inserted' );
+                    var deleted  = $edataGrid.edatagrid( 'getChanges', 'deleted' );
                     var updated  = $edataGrid.edatagrid( 'getChanges', 'updated' );
 
                     var data = {};
+                    if ( inserted.length > 0 ) {
+                        data['inserted'] = JSON.stringify(inserted);
+                    }
+                    if ( deleted.length > 0 ) {
+                        data['deleted'] = JSON.stringify(deleted);
+                    }
                     if ( updated.length > 0 ) {
                         data['updated'] = JSON.stringify(updated);
                     }
-                    $.post( './batchProcessWorkerExtend', data, function( response ) {
+                    $.post( './batchProcessWorker?cate=2', data, function( response ) {
                         $('#table').edatagrid('loaded');
                         if( response.state ) {
                             $('#table').edatagrid('load');
@@ -173,6 +302,7 @@ $(function () {
                             $('#tool-delete').linkbutton('disable');
                             $('#tool-cancel').linkbutton('disable');
                             $('#tool-save').linkbutton('disable');
+                            $.messager.alert('提示！', response.msg, 'info');
                         } else {
                             $.messager.alert('错误！', response.msg, 'error');
                         }

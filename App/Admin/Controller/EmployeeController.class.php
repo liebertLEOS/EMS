@@ -19,6 +19,9 @@ class EmployeeController extends BaseController {
      * 工人管理
      */
     public function worker(){
+        $cate = $_GET['cate'];
+
+        $this->assign('cate',$cate);
         $this->display();
     }
 
@@ -26,6 +29,8 @@ class EmployeeController extends BaseController {
      * 获取工人数据集
      */
     public function getWorker(){
+        $cate = $_GET['cate'];
+
         // fetch data and check
         $page     = $_POST['page'];
         $pageSize = $_POST['rows'];
@@ -61,13 +66,16 @@ class EmployeeController extends BaseController {
         if( $isinservice ){
             $map['isinservice'] = $isinservice == 'true' ? array('like', 'Y') : array('like', 'N');
         }
+        if( '2' == $cate ){
+            $map['categoryid'] = array('eq', 2);
+        } else {
+            $map['categoryid'] = array('eq', 1);
+        }
 
-        // create Model
-        $workerModel = M('EmployeeWorker');
         // sum the number the data
-        $total = $workerModel->where($map)->count();
+        $total = M('EmployeeWorker')->where($map)->count();
         // query
-        $data  = $workerModel->field('commission',true)->where($map)->order($sort)->page($page, $pageSize)->select();
+        $data  = D('EmployeeWorkerView')->where($map)->order($sort)->page($page, $pageSize)->select();
 
         // format result we need
         $data = array_map(function($value){
@@ -96,6 +104,11 @@ class EmployeeController extends BaseController {
     public function batchProcessWorker(){
         $data  = $_POST;
         $workerModel = D('EmployeeWorker');
+        $cate = $_GET['cate'];
+
+        if(!is_numeric($cate)) {
+            $cate = 1;
+        }
 
         // updated
         if ( $source = json_decode($data['updated']) ) {
@@ -104,6 +117,8 @@ class EmployeeController extends BaseController {
                 foreach( $vo as $k=>$d ){
                     $data[$k] = $d;
                 }
+
+                $data['categoryid'] = $cate;
 
                 if( !$workerModel->create($data) ){
 
@@ -138,6 +153,7 @@ class EmployeeController extends BaseController {
                     $data[$k] = $d;
                 }
 
+                $data['categoryid'] = $cate;
                 if( !$workerModel->create($data) ){
 
                     $this->ajaxReturn(array(
@@ -146,7 +162,7 @@ class EmployeeController extends BaseController {
                     ));
                 }
 
-                $error = $workerModel->add( $data );
+                $error = $workerModel->add();
 
                 if( $error === false ){
 
@@ -199,9 +215,14 @@ class EmployeeController extends BaseController {
     public function getWorkerList(){
         $page     = $_POST['page'];
         $pageSize = $_POST['rows'];
+        $cate     = $_GET['cate'];
 
         if( isset($_POST['q']) ){
             $map['name'] = array('like', '%'.$_POST['q'].'%');
+        }
+
+        if( isset($cate) && is_numeric($cate) ){
+            $map['categoryid'] = array('eq', $cate);
         }
 
         $total = M('employee_worker')->where($map)->count();
@@ -224,11 +245,11 @@ class EmployeeController extends BaseController {
      */
     public function getWorkerTree(){
 
-        $tree = M('employee_worker')->field('id,name,originid')->select();
+        $tree = M('employee_worker')->field('id,name,originid,categoryid')->select();
 
         $tree = array_map( function($value){
             $value['text'] = $value['name'];
-            $value['icon'] = 'icon-user';
+            $value['icon'] = $value['categoryid'] == 2 ? 'icon-user_gray' : 'icon-user';
             return $value;
         }, $tree );
         $tree = listToTree($tree, 'id', 'originid', 'children', '0' );
@@ -237,122 +258,6 @@ class EmployeeController extends BaseController {
         } else {
             return $tree;
         }
-    }
-
-    /***************************************************************************************
-     *                                   工头信息管理
-     ****************************************************************************************/
-    /**
-     * 工头管理
-     */
-    public function workerExtend(){
-        $this->display('worker-extend');
-    }
-
-    /**
-     * 获取工人数据集
-     */
-    public function getWorkerExtend(){
-        // fetch data and check
-        $page     = $_POST['page'];
-        $pageSize = $_POST['rows'];
-        $name     = isset($_POST['name']) ? trim($_POST['name']) : false;
-        $idcard   = isset($_POST['idcard']) ? trim($_POST['idcard']) : false;
-        $deliverydateFrom = isset($_POST['deliverydateFrom']) ? strtotime($_POST['deliverydateFrom']) : false;
-        $deliverydateTo = isset($_POST['deliverydateTo']) ? strtotime($_POST['deliverydateTo']) : false;
-        $isinservice  = $_POST['isinservice'];
-        $s        = isset($_POST['sort']) ? trim($_POST['sort']) : 'id';
-        $o        = isset($_POST['order']) ? trim($_POST['order']) : 'desc';
-
-        // create and format data we need
-        $s  = explode(',',$s);
-        $o  = explode(',',$o);
-        $sort = array();
-        foreach( $s as $key => $value ){
-            $sort[$value] = $o[$key];
-        }
-
-        $map = array();
-        if( $name ){
-            $map['name'] = array('like', '%'.$name.'%');
-        }
-        if( $idcard ){
-            $map['idcard'] = array('like', '%'.$idcard.'%');
-        }
-        if( $deliverydateFrom ){
-            $map['deliverydate'][] = array('egt', $deliverydateFrom);
-        }
-        if( $deliverydateTo ){
-            $map['deliverydate'][] = array('elt', $deliverydateTo);
-        }
-        if( $isinservice ){
-            $map['isinservice'] = $isinservice == 'true' ? array('like', 'Y') : array('like', 'N');
-        }
-
-        // create Model
-        $workerModel = M('EmployeeWorker');
-        // sum the number the data
-        $total = $workerModel->where($map)->count();
-        // query
-        $data  = $workerModel->field('id,name,categoryid,commission')->where($map)->order($sort)->page($page, $pageSize)->select();
-
-        // format result we need
-        $data = array_map(function($value){
-            $value['deliverydate'] = $value['deliverydate'] ? date('Y-m-d',$value['deliverydate']) : '';
-            $value['terminationdate'] = $value['terminationdate'] ? date('Y-m-d',$value['terminationdate']) : '';
-            return $value;
-        }, $data);
-
-        // response
-        if( IS_AJAX ) {
-            $this->ajaxReturn( array(
-                "total" => $total,
-                "rows"  => $data
-            ) );
-        } else {
-            return array(
-                "total" => $total,
-                "rows"  => $data
-            );
-        }
-    }
-
-    /**
-     * batchProcessWorkerExtend
-     */
-    public function batchProcessWorkerExtend(){
-        $data  = $_POST;
-        $workerModel = M('EmployeeWorker');
-
-        // updated
-        if ( $source = json_decode($data['updated']) ) {
-            foreach( $source as $key => $vo ){
-                $data = array();
-                foreach( $vo as $k=>$d ){
-                    $data[$k] = $d;
-                }
-
-                $error = $workerModel->data($data)->save();
-
-                if( $error === false ){
-
-                    $this->ajaxReturn(array(
-                        "state" => 0,
-                        "msg"   => "保存失败"
-                    ));
-                }
-
-                // 记录到日志中
-                $log = $this->user['name'].'更新员工扩展信息，员工ID：【'.$data['id'].'】，员工姓名：【'.$data['name'].'】';
-                saveLog(0,$log, $this->user['id'], $this->user['name']);
-            }
-        }// end update
-
-        // response
-        $this->ajaxReturn(array(
-            "state" => 1,
-            "msg"   => "保存成功"
-        ));
     }
 
 
@@ -479,7 +384,7 @@ class EmployeeController extends BaseController {
                 foreach( $vo as $k=>$d ){
                     $data[$k] = $d;
                 }
-                $data['time'] = strtotime( $data['time'] );
+
                 if( !$worktimeModel->create($data,1) ){
 
                     $this->ajaxReturn(array(
@@ -489,7 +394,7 @@ class EmployeeController extends BaseController {
                 }
 
 
-                $error = $worktimeModel->add( $data );
+                $error = $worktimeModel->add();
 
                 if( $error === false ){
                     $this->ajaxReturn(array(
@@ -686,6 +591,71 @@ class EmployeeController extends BaseController {
     }
 
     /**
+     * saveData
+     * @description 保存数据到数据库中
+     * @return response 窗体界面html
+     */
+    public function saveWorktimeData(){
+        $data  = $_POST['dataset'];
+        $worktimeModel = D('EmployeeWorktime');
+
+        // add
+        if ( isset($data) && $source = json_decode($data) ) {
+            // fetch each row
+            foreach( $source as $key=>$vo ){
+                $data = array();
+                $data['workerid']              = array_shift($vo);   // 员工ID
+                                                 array_shift($vo);   // 员工姓名
+                $data['time']                  = array_shift($vo);   // 时间
+                $data['checkindate']           = array_shift($vo);   // 入职日期
+                $data['leavedate']             = array_shift($vo);   // 离职日期
+                $data['isagreement']           = array_shift($vo);   // 是否满协议
+                $data['price']                 = array_shift($vo);   // 工时单价
+                $data['totaltime']             = array_shift($vo);   // 总工时
+                $data['overallcost']           = array_shift($vo);   // 工衣
+                $data['iccard']                = array_shift($vo);   // IC卡
+                $data['waterandelectricity']   = array_shift($vo);   // 水电费
+                $data['penalty']               = array_shift($vo);   // 罚金
+                $data['commercialinsurance']   = array_shift($vo);   // 商保
+                $data['managementcost']        = array_shift($vo);   // 管理费
+                $data['carfare']               = array_shift($vo);   // 车费
+                $data['borrow']                = array_shift($vo);   // 借资
+                $data['liquidateddamages']     = array_shift($vo);   // 违约金
+                $data['addedinfo']             = array_shift($vo);   // 备注
+
+                if( !$worktimeModel->create($data,1) ){
+
+                    $this->ajaxReturn(array(
+                        "state" => 0,
+                        "msg"   => $worktimeModel->getError()
+                    ));
+                }
+
+                $error = $worktimeModel->add();
+
+                if( $error === false ){
+                    $this->ajaxReturn(array(
+                        "state" => 0,
+                        "msg"   => "添加失败"
+                    ));
+                }
+
+                // 记录到日志中
+                $log = $this->user['name'].'增加工时表单数据，ID：【'.$error.'】';
+                saveLog(0,$log, $this->user['id'], $this->user['name']);
+
+            }// end foreach
+
+        }//end add
+
+        // response
+        $this->ajaxReturn(array(
+            "state" => 1,
+            "msg"   => "保存成功"
+        ));
+    }
+
+    /**
      * uploadFiles
      * @description 上传的excel文件
      */
@@ -708,10 +678,19 @@ class EmployeeController extends BaseController {
                 ));
             }
 
+            // 记录到日志中
+            foreach( $fileinfo as $file ){
+                $log = $this->user['name'].'上传工时表单，文件名：'.$file['savename'];
+                saveLog(0,$log, $this->user['id'], $this->user['name']);
+            }
+
+
             $this->ajaxReturn( array(
                 "state" => 1,
                 "msg"   => '上传成功！'
             ) );
+
+
         }
         $this->ajaxReturn( array(
             "state" => 0,
@@ -764,6 +743,9 @@ class EmployeeController extends BaseController {
 
             foreach ( $files as $file ){
                 unlink($path.$file);
+                // 记录到日志
+                $log = $this->user['name'].'删除工时表单，文件名：'.$file;
+                saveLog(0,$log, $this->user['id'], $this->user['name']);
             }
 
             $this->ajaxReturn( array(

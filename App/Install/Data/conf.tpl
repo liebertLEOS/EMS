@@ -43,4 +43,8 @@ return array(
     'DB_PWD'    => '[DB_PWD]',  // 密码
     'DB_PORT'   => '[DB_PORT]', // 端口
     'DB_PREFIX' => '[DB_PREFIX]', // 数据库表前缀
+
+    /* 上传文件目录 */
+    'UPLOAD_USER'  => './Uploads/user/',
+    'UPLOAD_EXCEL' => './Uploads/excel/'
 );
