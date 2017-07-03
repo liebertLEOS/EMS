@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15b5337-3610-4db6-8e53-b548db6c727b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.vs/EMS/v15/.suo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.vs/EMS/v15/Browse.VC.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.vs/ProjectSettings.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/App/Common/Conf/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/install.lock" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Uploads/excel/2017-05-01.xlsx" afterPath="$PROJECT_DIR$/Uploads/excel/2017-05-01.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -215,12 +210,12 @@
       <workItem from="1497774622354" duration="4321000" />
       <workItem from="1497792963061" duration="16320000" />
       <workItem from="1497945520708" duration="22068000" />
-      <workItem from="1499002415067" duration="20310000" />
+      <workItem from="1499002415067" duration="20908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64077000" />
+    <option name="totallyTimeSpent" value="64675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
