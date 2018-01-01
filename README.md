@@ -1,9 +1,11 @@
-﻿#########################################################################################
-###
-###                                     安装说明
-### Author: liebert
-### Date  : 2017/03/11
-#########################################################################################
+#EMS
+===============
+
+[![GitHub release](https://img.shields.io/github/release/top-think/think.svg?maxAge=2592000)](https://github.com/top-think/think/releases/latest)
+[![Packagist](https://img.shields.io/packagist/v/topthink/think.svg?maxAge=2592000)](https://packagist.org/packages/topthink/think)
+[![Packagist](https://img.shields.io/packagist/dt/topthink/think.svg?maxAge=2592000)](https://packagist.org/packages/topthink/think)
+
+## 安装说明
 
 #### 1.将文件拷贝至Web根目录下，不要修改任何文件；
 
