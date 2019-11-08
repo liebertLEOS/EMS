@@ -80,6 +80,7 @@ class InstallController extends Controller{
             //跳转到数据库安装页面
             $this->redirect('step3');
         } else {
+            session('update',null);
             if(session('update')){
                 session('step', 2);
                 $this->display('update');

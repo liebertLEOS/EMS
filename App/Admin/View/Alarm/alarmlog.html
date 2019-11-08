@@ -1,0 +1,31 @@
+<extend name="Public:frame" />
+<block name="content">
+<div id="main-layout" class="easyui-layout">
+    <div data-options="region:'west',iconCls:'icon-page_white_excel',split:'true'" title="警情列表" style="width:700px;">
+        <div style="height:100%;">
+            <div id="alarm-tool" style="padding:10px;">
+                <span>警情编号：<input type="text" name="alarmnumber" class="textbox" style="width:200px;height:24px;"></span>
+                <span>时间：
+                    <input type="text" name="time-from" class="easyui-datebox" editable="false" style="width:110px;"> —
+                    <input type="text" name="time-end" class="easyui-datebox" editable="false" style="width:110px;">
+                </span>
+                <a href="#" class="easyui-linkbutton" iconCls="icon-search" onclick="alarmTool.query();">查询</a>
+            </div>
+            <div id="alarm-list"></div>
+        </div>
+    </div>
+    <div data-options="region:'center',iconCls:'icon-table'" title="反馈列表">
+        <div id="alarmlog-tool" class="datagrid-toolbar" style="padding:10px;">
+            <a href="#" class="easyui-linkbutton" iconCls="icon-add" id="alarmlogTool-add" onclick="alarmlogTool.add();">新增</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-delete" id="alarmlogTool-delete" onclick="alarmlogTool.delete();">删除</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-reload" onclick="alarmlogTool.reload();">刷新</a>
+        </div>
+        <div id="alarmlog-list"></div>
+    </div>
+</div>
+
+</block>
+
+<block name="script">
+    <script type="text/javascript" src="__PUBLIC__/js/admin/alarm/alarm-log.js"></script>
+</block>

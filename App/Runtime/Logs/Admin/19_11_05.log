@@ -1,0 +1,1480 @@
+[ 2019-11-05T21:24:16+08:00 ] 127.0.0.1 /Admin/Alarm/index
+ERR: Ê®°Êùø‰∏çÂ≠òÂú®:./App/Admin/View/Alarm/index.html
+
+[ 2019-11-05T21:24:16+08:00 ] 127.0.0.1 /Admin/Alarm/index
+ERR: Ê®°Êùø‰∏çÂ≠òÂú®:./App/Admin/View/Alarm/index.html
+
+[ 2019-11-05T21:24:30+08:00 ] 127.0.0.1 /Admin/Alarm/index
+ERR: Ê®°Êùø‰∏çÂ≠òÂú®:./App/Admin/View/Alarm/index.html
+
+[ 2019-11-05T21:24:30+08:00 ] 127.0.0.1 /Admin/Alarm/index
+ERR: Ê®°Êùø‰∏çÂ≠òÂú®:./App/Admin/View/Alarm/index.html
+
+[ 2019-11-05T21:24:54+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T21:30:32+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T21:50:58+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T21:51:06+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T21:52:53+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T21:55:03+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T21:55:56+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T21:57:32+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T21:58:35+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T21:58:48+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:01:09+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:01:25+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-11-05T22:10:34+08:00 ] 127.0.0.1 /Admin/User/getUser
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_admin_user` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name`,`userpic`,`loginallowed`,`registertime`,`lastip`,`lasttime` FROM `ems_admin_user` ORDER BY id desc LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:10:35+08:00 ] 127.0.0.1 /Admin/User/getForm?id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ems_admin_user` LEFT JOIN ems_auth_group_access ON ems_admin_user.id = ems_auth_group_access.uid  WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0050s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-11-05T22:10:36+08:00 ] 127.0.0.1 /Admin/Role/getRole
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_auth_group` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `ems_auth_group`  [ RunTime:0.0040s ]
+
+[ 2019-11-05T22:10:40+08:00 ] 127.0.0.1 /Admin/Role/getRole
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_auth_group` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_auth_group`  [ RunTime:0.0010s ]
+
+[ 2019-11-05T22:10:42+08:00 ] 127.0.0.1 /Admin/Role/getForm?id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_auth_group` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_auth_group` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-11-05T22:10:42+08:00 ] 127.0.0.1 /Admin/Rule/getRuleTree
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`pid`,title as text FROM `ems_auth_rule`  [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+NOTIC: [8] Undefined index: icon D:\phpstudy_pro\WWW\App\Common\Common\function.php Á¨¨ 53 Ë°å.
+
+[ 2019-11-05T22:18:16+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-11-05T22:22:03+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T22:22:50+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T22:22:53+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T22:22:53+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T22:22:54+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T22:22:54+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T22:22:54+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T22:23:23+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T22:23:28+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-11-05T22:23:29+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0030s ]
+
+[ 2019-11-05T22:23:29+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:23:29+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:23:30+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:23:30+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:23:30+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:23:30+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:24:05+08:00 ] 127.0.0.1 /Admin/User/getUser
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_admin_user` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`name`,`userpic`,`loginallowed`,`registertime`,`lastip`,`lasttime` FROM `ems_admin_user` ORDER BY id desc LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:25:30+08:00 ] 127.0.0.1 /Admin/User/getUser
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_admin_user` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`name`,`userpic`,`loginallowed`,`registertime`,`lastip`,`lasttime` FROM `ems_admin_user` ORDER BY id desc LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:25:33+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-11-05T22:25:57+08:00 ] 127.0.0.1 /Admin/Employee/getWorkerTree
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_employee_worker` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`name`,`originid`,`categoryid` FROM `ems_employee_worker`  [ RunTime:0.0050s ]
+
+[ 2019-11-05T22:25:57+08:00 ] 127.0.0.1 /Admin/Employee/getWorker?cate=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: isinservice D:\phpstudy_pro\WWW\App\Admin\Controller\EmployeeController.class.php Á¨¨ 41 Ë°å.
+SQL: SHOW COLUMNS FROM `ems_employee_worker` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_employee_worker` WHERE `categoryid` = 2 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT EmployeeWorker.id AS id,EmployeeWorker.name AS name,EmployeeWorker.idcard AS idcard,EmployeeWorker.phone AS phone,EmployeeWorker.factory AS factory,EmployeeWorker.categoryid AS categoryid,EmployeeWorker.deliverydate AS deliverydate,EmployeeWorker.terminationdate AS terminationdate,EmployeeWorker.undercontractwage AS undercontractwage,EmployeeWorker.fullagreementwage AS fullagreementwage,EmployeeWorker.commission AS commission,EmployeeWorker.originid AS originid,EmployeeWorker.isinservice AS isinservice,EmployeeWorker.addedinfo AS addedinfo,EmployeeWorker2.id AS lid,EmployeeWorker2.name AS originname FROM ems_employee_worker EmployeeWorker LEFT JOIN ems_employee_worker EmployeeWorker2 ON EmployeeWorker.originid=EmployeeWorker2.id WHERE EmployeeWorker.categoryid = 2 ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2019-11-05T22:26:00+08:00 ] 127.0.0.1 /Admin/Employee/getWorktime
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_employee_worktime` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ems_employee_worker` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ems_employee_worktime EmployeeWorktime LEFT JOIN ems_employee_worker EmployeeWorker ON EmployeeWorktime.workerid=EmployeeWorker.id LIMIT 1   [ RunTime:0.0540s ]
+SQL: SELECT EmployeeWorktime.id AS id,EmployeeWorktime.time AS time,EmployeeWorktime.workerid AS workerid,EmployeeWorktime.checkindate AS checkindate,EmployeeWorktime.leavedate AS leavedate,EmployeeWorktime.isagreement AS isagreement,EmployeeWorktime.price AS price,EmployeeWorktime.totaltime AS totaltime,EmployeeWorktime.waterandelectricity AS waterandelectricity,EmployeeWorktime.overallcost AS overallcost,EmployeeWorktime.iccard AS iccard,EmployeeWorktime.penalty AS penalty,EmployeeWorktime.commercialinsurance AS commercialinsurance,EmployeeWorktime.managementcost AS managementcost,EmployeeWorktime.carfare AS carfare,EmployeeWorktime.borrow AS borrow,EmployeeWorktime.liquidateddamages AS liquidateddamages,EmployeeWorktime.addedinfo AS worktime_addedinfo,EmployeeWorker.name AS name,EmployeeWorker.categoryid AS categoryid,EmployeeWorker.undercontractwage AS undercontractwage,EmployeeWorker.fullagreementwage AS fullagreementwage FROM ems_employee_worktime EmployeeWorktime LEFT JOIN ems_employee_worker EmployeeWorker ON EmployeeWorktime.workerid=EmployeeWorker.id ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:26:02+08:00 ] 127.0.0.1 /Admin/Employee/getWorkerList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: cate D:\phpstudy_pro\WWW\App\Admin\Controller\EmployeeController.class.php Á¨¨ 218 Ë°å.
+SQL: SHOW COLUMNS FROM `ems_employee_worker` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: map D:\phpstudy_pro\WWW\App\Admin\Controller\EmployeeController.class.php Á¨¨ 228 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_employee_worker` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: map D:\phpstudy_pro\WWW\App\Admin\Controller\EmployeeController.class.php Á¨¨ 229 Ë°å.
+SQL: SELECT `id`,`name`,`idcard` FROM `ems_employee_worker` ORDER BY name asc LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-11-05T22:26:07+08:00 ] 127.0.0.1 /Admin/Employee/getWorktime
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_employee_worktime` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_employee_worker` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ems_employee_worktime EmployeeWorktime LEFT JOIN ems_employee_worker EmployeeWorker ON EmployeeWorktime.workerid=EmployeeWorker.id LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT EmployeeWorktime.id AS id,EmployeeWorktime.time AS time,EmployeeWorktime.workerid AS workerid,EmployeeWorktime.checkindate AS checkindate,EmployeeWorktime.leavedate AS leavedate,EmployeeWorktime.isagreement AS isagreement,EmployeeWorktime.price AS price,EmployeeWorktime.totaltime AS totaltime,EmployeeWorktime.waterandelectricity AS waterandelectricity,EmployeeWorktime.overallcost AS overallcost,EmployeeWorktime.iccard AS iccard,EmployeeWorktime.penalty AS penalty,EmployeeWorktime.commercialinsurance AS commercialinsurance,EmployeeWorktime.managementcost AS managementcost,EmployeeWorktime.carfare AS carfare,EmployeeWorktime.borrow AS borrow,EmployeeWorktime.liquidateddamages AS liquidateddamages,EmployeeWorktime.addedinfo AS worktime_addedinfo,EmployeeWorker.name AS name,EmployeeWorker.categoryid AS categoryid,EmployeeWorker.undercontractwage AS undercontractwage,EmployeeWorker.fullagreementwage AS fullagreementwage FROM ems_employee_worktime EmployeeWorktime LEFT JOIN ems_employee_worker EmployeeWorker ON EmployeeWorktime.workerid=EmployeeWorker.id ORDER BY `id` desc LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:26:08+08:00 ] 127.0.0.1 /Admin/Employee/getWorkerList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: cate D:\phpstudy_pro\WWW\App\Admin\Controller\EmployeeController.class.php Á¨¨ 218 Ë°å.
+SQL: SHOW COLUMNS FROM `ems_employee_worker` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: map D:\phpstudy_pro\WWW\App\Admin\Controller\EmployeeController.class.php Á¨¨ 228 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_employee_worker` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: map D:\phpstudy_pro\WWW\App\Admin\Controller\EmployeeController.class.php Á¨¨ 229 Ë°å.
+SQL: SELECT `id`,`name`,`idcard` FROM `ems_employee_worker` ORDER BY name asc LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:27:36+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:28:42+08:00 ] 127.0.0.1 /Admin/Index/getSideMenu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_system_menu` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `ems_system_menu` WHERE ( hide=0 ) ORDER BY myorder asc  [ RunTime:0.0040s ]
+
+[ 2019-11-05T22:29:04+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-11-05T22:33:35+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:35:29+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:38:50+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-11-05T22:39:30+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:40:08+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:40:57+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:13+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:14+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:14+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:14+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-11-05T22:41:14+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:14+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:15+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:15+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:30+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:31+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:31+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:31+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:41:32+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-11-05T22:55:44+08:00 ] 127.0.0.1 /Admin/Employee/getUploadedFiles
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0050s ]
+
+[ 2019-11-05T22:55:48+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0010s ]
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+
+[ 2019-11-05T22:55:50+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+
+[ 2019-11-05T23:03:30+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+
+[ 2019-11-05T23:05:03+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0010s ]
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+
+[ 2019-11-05T23:06:57+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+
+[ 2019-11-05T23:08:00+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+
+[ 2019-11-05T23:08:39+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+
+[ 2019-11-05T23:08:40+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+
+[ 2019-11-05T23:08:41+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+
+[ 2019-11-05T23:08:41+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+ERR: 1054:Unknown column 'alarmnumber' in 'field list'
+ [ SQLËØ≠Âè• ] : SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20  
+
+[ 2019-11-05T23:10:13+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:10:14+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:10:29+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:11:06+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:11:31+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:13:03+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:13:21+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:13:43+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:13:56+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunT[(ÃÀÆÃ{ªHNo]ƒ¨˘¿îú√∫/≥åÀ_ºcvQ|Ó;ÑPtxº{3ÍÌ‘ˇ¸´
+æÃÿ~–¯k" /+,éë^Éä”™¬ˆàΩ(áûﬂÀ:ùdì´*¡Ä„g`@dËíO¯ËaF!PÜ˙)CÙÆæˆ˝0B¿&c˝Hã&¬MBÁ3^‘˛5¢h*‡60&˘¢Ô‚5O*D_Âr‰4ëo~∫Dù™;ÒÓ∆¯ú3qì∆Ññfß§Ëo“‰a;ì t‡©…
+FÂ¿|	«<˚+<]Ø1/è5#jöß&èª´ºÓ˛‰¢®OÙìì| •(ÎS≥uÄûª‹"°¶œªY±^Y;Û≥B…)›£M¨dXıàﬂÀæÿùÂ^;sjb-∑Î2∂(.5ò·:∂âh/O6äRYêIí¸nÕÅÚcY4ÚìéÛ‰Ua`Òø¯B=fmõá-"ˇvNbB€$LÇ•Ühcô´¡2È◊≥
+N√˚öôôÌ∏ò…xæ{èúDF›É∞Óh{µ,êöqOfY˙Aøkì3h<yst¥wõóR%BUwí±G˙9ÄîÃiÙﬁ*ØhëG%"à∞‹EÃz–j¯í¶ùπ¥'bâÏ!H·—∫W ÍË2€U!Iíü8π^R(Í®¡M‘ßc8©aá˜ƒ/,…¬SBanhµAÑMqæFƒB01<·“X°Äji=a2†öá7Ä˚0)˝ªó\Ó_).¥Å#¯-bE\z˚DøB÷l5YØ’úMTãpˇ¸2-N©ù1W!øX1o˛ã‘w˙ù◊Ò6B‰b¥<˚k3Î`A´ º»$-r\™Q˜ãﬂVÙdå0>e÷ZÍ≠;ué ÍWzcxÒî[∑Çf`¯¨†Œ’’ì£2ˇ,¨mÌ˘Íæhy€ì≈öiöŒ‰:˙á˚u5ıΩ¡@Ï:”L §∑èÅ–ì≥{Ïi8Èì~Œ¸HéèåΩgã±=bÓ••ä⁄õlÔ~÷~∆´òﬁ,PP∂´w:Egª⁄oÅßí∏XåÄ¶∂ãOJ3∂§Ó{[§™~nŒû˘!ùê-ÿ˛;gÅ>rƒH÷"~ö…Hõ∫>êÃ¯iÙ€“ÍLfa/C0¥ñÀïü‰πQS“M ¸∑áU«øÕrtŸºŒkŒ∑å	⁄.#^WÄå∂ßõX~sÃ Ω¶◊û
+Œ|—=ËD‡—¿˜Èí≈Í§ÙÃ÷§ÙÆå>¡¥Ùâ˙#¨2B÷Î∂w=K”iOí·B˛c6≈ëRá˝˜ÛøÈAAöãékOÇﬂ˝Ô¥[¡OÊh¢µEl”ù´«¢YÀ÷x]…àì¯f/,UcÊå†∏*¿X[Ké§5´*Á4I∫Ñ;ÂΩ πyzë´∏Ym¢ù‘:©Ù˘˜?◊Ó1œ¸†3Kâè(ò'Rí©˛˘{:í•ÃnH€EÜ ¸™zÎp$ò§ë˛…™á¨é∂rÁxØQ:jòt1πFyôÂ –4e5……Ú?…˙9âa^öﬂ‚?<
+Ö@gÈ‘π.;åÉpº;gûg3rZ®Æ¢ƒ¨àf¯æ¢∂Ô-RàA5ΩV;oÇ≈ÏÅµë¨Ë„_àI:˙‡AMÂFo∫˝	a]# €]Eˆ+ET˝ÛI[¬ñWí6∞Òë}œ∑VS2™èˇÎéFBè†l∫
+r$·‚∫WÉ·¥Yºça˛80_◊ÓÕG‰Üøeœ·'§«XjCSƒ!B9¸z¬X˝/•0õ]Ÿ∂AuL;Êxk›Dy‚J·‚NTÛ≤ÀJË•Á‡èhÔYΩ™ ÊÎtûµ—<:ñ#Tv˛7Ì∏$ÔŒ¿â∞*zÈ¡2twAÆõa¯≤%Üà>…ÌâlˆLu+≈ƒ˙ZÀΩ£˝n€Ê+q÷`ÛOÑÀÅ·–U<¥N{ÃÕ<m`ô[Õ“ä≤Ñ… §9g≥]0i0•ÿ\˙è20b∆Gba·+∑rTZ »çu‹ºaÌ´“πBµw∏Ê-Õπó3ßlÌ ù0Ÿﬁ•Ñ6 h˛	k√#Çc˛ßyËWw@ìnÃıÖ YåàX∆Ï4∞’Û–`µÊË,§Kyòø6ÓkÏ}ò‚k$L∆åIß%!”G2èBö{0ò»&ã=LõG$Ω€∆Øp„–’¿Ω ≥´Ã¢¡ìLòdi.ùÀ
+˜ë{:Ÿ≈£ÿ°]ù+∆àPy#≈|<∂‘‘û¬◊x rÖ¬¸`2å1$6UsyX„LMø<ÂÒxî§Y≈çÖ¸Obx¸Ì´ë"jkŒ2e<SñßïœƒÌxŒKÁÜìeµé£πª5âÅÕÀÈ´äêlX|˜∞<óµãg∏sf¢Ìkô7VëN÷≈
+O'ÂE9µaÌ⁄˛ñ¸»_YéíÏjg]9Ü
+©`A`…î´ù˜É@hÌXd‘üYÛ*¢i‘≠9ø$Ik uœ≥æ–ë¶j’®⁄ÓﬂZ6è~™!óÅ˙v´˚çl+ Ü,–Â◊}uˆπØEBú‰6Ûñﬁ®ÑsËÿoÑÿÁ9\‡ˇ÷McÈ‘#Ó˝„fÅºcÓ˚E∏ÅDÁ+è%Ÿ}ŒjPõõ 2n±±´ÖÔﬂ˜@éJ&AÎ¨.ª%¬1!Úq÷ 5æûö”Ô≠ÖÄ3∂L%m),¶&1Q"Jà˜Î^
+4<iµòo‰[Ï€„Òn+ñuﬂG⁄}0c9ˆp<"£Öÿâ±(;ùÑ¶Ö`ôØ˚Kªã¢7˝Ò#;Jkå«É9†ûΩm”£¶≠M·bä$âX©„¿v˚@3RàNˆ≠Z≠ÅC5…ﬁzô©H`ïNÇi˝-”Ô?≠ˇ|ÔﬂÆÒkûP&BAK@&éï≈\zQ’∑mR}Â=$En=hüocúÁŒpÀÓœä©Ã"á˚∑Ã¶F§ˇ1Dò/+û Èãﬁ<Â-Ωå>öí›xd&U¯êÒÏ?k:Q¶é‰–`±BÈã>^_£u¸Ïh~ñ,~È˙ı∫Rt¸ú4à"m±n>∏íæ∏)ÜÀ©
+Ë~[€∂Æi-¢PÙGBäY2KLﬂ^.⁄¯c0 D‘<€÷ˆ7ﬂÓ'‡éT⁄Õ’nrÍaU∫|ßl,d˘I_w≥˜£a˚≠;÷)Ê≠≈HIÔ'"ë¢®¡˝ 6]ßÇ:¥Êü©ä{€•µø{}Õûq7\üQV‡ìΩâpsÓµöa∫à÷ÔåS˘=À„»0ó»ZêòF" Kí`Mˇˇ›ßº⁄qÙo~ñŒ8j-¡>íÓÎÅº§™≤IÌ}ÛâÑ>"èÓ¯¶pûGwbç⁄≈3º…∫ß¡H9ûÂèO<¿ˆ%Õ…¯Jcwß ãB}Wb>%”∂Û„/¯Àˆ∂ö◊ﬁ@r ˘R¬[MXÌgˇgØ≥ÿ1¶§›«eA•Öñâj´a¿k‘S ·Aª)ƒoyµ5„NWFbó8es˚≥:Q;fﬁ∑†◊kìÌ(§ÎWûA_V˙q¥ﬂí*Œ<¸&™‘h–x¢ªX∂±&>Eøe.æ£#ç9væ≥79™ª ˛œ¨o¥†…÷J
+Î1–rîÑ‰≥∂C˝öZiæî√ñí»˚VŸÑAÕîπö˘ùcÒ- 6∑…g#q·Ä4®€≥Pñi∆EàÙ¢ƒ`Ó _$’ÙC '˛&v\èˆç‰.dsM’#Öëlì€?”˜xH[>⁄^–‘¶≤äã[èJM·à‚£päï©Ôv>«?‹KCˆF@∏›!ØÄ·óÁ»Lô∆ïr¶…lˆ£ê*s«Ç0µYz`ª,H(8äPhÊæÔòˆÍP™ÍÎúÿ>∆äØæ¥¡Ö:!Ofúåî◊ÜoÅi≠‡¡lÃGÄÿa¸c≥~3ÈÜn∏x¸ÖD$aAëó{2ÀΩò—∞ñ¸`ÅÏ=™∫Z∫!‘ÏÉzù=^ÍP>«≈ ;˙è˛ƒ©äbÁƒe»îçÚı¥ﬂ>%D>˜(î8≠b;i†Ãå3sÚVUòrçødyU$-%≈Ä4sT*OîMsÕ{‚ïouotè>ÁpM¢îT∆Ω”N”º∞Î∏#]#·03˝+r¯tk‡?ﬁÈ·«òÃ2äó)¬GÓWßŸT9¢•[ó´ûTÊ<√z…x˛≥j≤%9…<˘…Û+E"ùXŒ≠v£Ä∞c|›}îG≤Ff`êRû0è–˙ÏÜOÆ◊{LIXπ≠ﬂÁíì'$ﬂtú¥™`p¢)¬û0ÀÍq®^wn+iˆŒ'vÃèY‹ﬂÑ  L¨»œÖnökŸÉq£ˆÌjN®<ó›ì T1RA‡T9qUC∑®wØ0ydë:˘∑ÍåØÊÂ~é≤]ç1e˚i$∂@é/g1\.É‡Œ$Ì¬ªUa—¢Î˚˙Èq¨Íƒ†"ìòZπs…ÙÆ»˚¢\`Í/ŒS›È‹:´úväÁaœè˙€5Æ÷®4£<AˆΩå=¸≥Ø7ßk=>ìîÒ"ÓóéÓê
+àœIVﬂÚ!$Â◊◊Ïsd`“≠ax∞ÿ65 †ñ∆–∞±uÂ∞˘…õ&Ñ˘‘<≤—˚Og‚AlG3Ú^ˆ¶ºøøÉ°˝©f› ö≠ã’≤˘˘Ê’ëöÍE±7Ÿ˛2f´ÄãêM0Ø˝D5√bÔÄé•©ß#|/G
+5uÈ vÛ‹Ü
+?z
+t˘)Fì¸Gï≥ôÆpÜDaÜp()¸Oﬂ˛/bØ sà¶»ﬁ\ñ¸ÖG}∂Ñ ±á0ùÜ7Bı6êQU2NØ‚c÷ \˜Õn›§Á)u-€ârOM«¡J§Çi®”¢QìJÀœD~"xÈ ∫ä]ïÅ£∂®%X˜…QÃÇÖ˙) âõPﬁ˜Ã•€≥0ΩÆS„ ˜Ÿì5§‘ÒÁh÷\˘%ﬂ~ƒ”"]Bøag≥§·Uœ‘¡ &u>ªk5Ø§åt∑Í+0Fî{÷OãHËïÎ<ÕÈ·Fm™J˚Ë+|…¡PZ1%∞Ωb4!®%⁄ØçœÄ@Å¬ª¶ oÇÛ∞øºy,C˝[<ºN*Hh·^ªq[gØ,º‡+,ﬂÙ•Ÿ∑>)‡∏1
+ë¬>y(QävΩì+Ü˚w·Ä¨FÙ*r±ÏÆVk[Dv!ÏXá=eeôΩ)pùäºD_˛DæÈöÌ?øódË°Ñ∫ê€µ5uâ—Ó>«È\üÿu ˘Îßy)Ú'l÷Vz6|–ÿæ
+œ€SìX(Y*†™Ë ‚íØƒ|úìä
+xí”ﬁÏ,èPsTÂ;0∆•q„NÛœ◊Ÿé
+‰øJò}´_™Ljp.£0¯·¢è”Ê	T3–£Øà?ŒwDvxàLñqü∑¬¢˙SË5È<œnç?\:Ôí|7+∑KaD[ã$CÆv/$€ãπAlxm+Ï-·Sr|‹:3è‹(ÒrVc∆<y:!ú›o∏úms_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:19:11+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:20:27+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:20:55+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:22:39+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:23:27+08:00 ] 127.0.0.1 /Admin/Employee/getWorkerTree
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_employee_worker` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`name`,`originid`,`categoryid` FROM `ems_employee_worker`  [ RunTime:0.0050s ]
+
+[ 2019-11-05T23:23:27+08:00 ] 127.0.0.1 /Admin/Employee/getWorker?cate=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: isinservice D:\phpstudy_pro\WWW\App\Admin\Controller\EmployeeController.class.php Á¨¨ 41 Ë°å.
+SQL: SHOW COLUMNS FROM `ems_employee_worker` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_employee_worker` WHERE `categoryid` = 1 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT EmployeeWorker.id AS id,EmployeeWorker.name AS name,EmployeeWorker.idcard AS idcard,EmployeeWorker.phone AS phone,EmployeeWorker.factory AS factory,EmployeeWorker.categoryid AS categoryid,EmployeeWorker.deliverydate AS deliverydate,EmployeeWorker.terminationdate AS terminati∞b~Cˇ‹∏5aiõ§ö¸-ûıv#lÊM=…ê{Çˆ™Y¬∑dXûÊﬁƒ¥˙Ñï˝´–M√)ö|i‚Æ3")qfÒz˜€Ó
+∏˝pe∫aq†t“›(’∑yŒ#Æ ‘·ÎvkÛ¢XVÇß 8-Ç	÷ßÄº~f;âûóÉ∏≈Ì1È•qòw2®#_t>3>§ËJ¯Ã·%∫]d;ƒ∞¿,qNP@xVsπ√ÿ§8övhó;:⁄¢»Ó•H]uyJ∏,òã=[ª¯Ü8ß˙©86Û1ùN9è,6π{®9Óπ™Äÿ\;Ñ3/YS£Yª©.r>Üü3.¡≤I¨qàg˙ˇ1ûÍvµ¿ó*ùR9Ã§ûÂµZ—‡€ºË3ËπìiNS¯CÖ&/∫÷&BB0Ó⁄Tﬂ†Öäú√ΩÑ°+à ªú&'aºôlØzv˘–≈ZvÛõvÈŸ-Íﬂïº+ód]ÃÎ0√∂≠AS∑ÙY7D“Æ∑µX˝íÚàÅÆ¶ßJ≠8~û⁄àPÒúy∂'0˛l√ﬂ -ä$:'ÍV∏ÅÄÇy◊’ùÏ≥~£›ﬂh!*|ﬂö.I›É
+∞ÍÛP$0éﬁä,‹–LÍ´S,cr“Ôîå∫)®íá¬ùÃ»¶∑PúΩæß6»&i≥VÛ3zB%∞oz
+ün–@%ªŸ qI[s´)å±4O-˘®ña¿S¨Ìà-‘d-DJ©†ê´‘¡∞ﬂ‡l-µr—t-LÆmƒ];íFªÛ!Sá*ÆzXÆCMCp˘Ö ñÕy≈P¥m¸œ¶›#kÔÙøeÆ,”øcwŒ˚ªû∑µòxŸÂÌ. k÷àΩ§9i ÍÎYÛÅ˚ˇ’°Ñ,˚äFÒﬁŒç˝ï˝=«MT2≈^Ÿ¥⁄†æå^q\`hêR≈V£Ôæ◊Ñ´ =ø¯"Mq∏ª;#¿Å’gø=•Ü|NŸiDSÑÊÔs5_±lÂﬁ2
+ö`b◊Ã™‚/eãªD ¿Ï†qd∏åk’jm6L@!Êªóiú¡dYkpæû‡ª"c>ﬂŸ8KıL
+Î™Ó‡«ﬁ¯IÛU«pã¶‚∫`≥).sL™B– L∫dW±MŒÅ"zôµOdÀm†“ËXô‚ﬁî™ÀÆÚ±:√¥ØÿÀªÎ‹&æá≈hOFkVùÉÎ`¨O%Vñó3°ﬂD òo:ΩAø0 úW
+Î‰)˜broíÖ%âµ¡©"~èı©˘˛Sºp€`Ù¥Ó’S®_œZK¿TáJ,k›Ö•jæÁ˙ˇµQXY/Ô˚Ê~r]-^CÏ•ºzûyxHÅ˘<ÆπN)∫±¿“´Ò”∆@ã˙‹®DYí∑nˇæ˛]>)‰4Ñ~ ’$∫r*2ƒZ[,πæôåôÕ~k≤-nKhÊ€Úæ¸–9!°CÖöÔ8ïVÉ¥‰$∏˘Jãz0≥¬ˆP®ÄáWî/ÀÛﬁH˜æˆ’¥ÆπÒ˝¥ªbΩHóıÖ˚È´Ø‰P±%©äpOiı/¸ø°Ù6Ll!kD«Àíc?{‡éˆŸ«7∂◊»lXÁ#F§Á•ÅG9HΩÌ?>õ1—Ôo\ÔÓüÆê`aßHô˛
+-˝WF8ì#Q0<Â∏°◊Pª⁄ÑÕR¢z£a*7•xG{E¶ı”R¥Ñ6~›Ÿœµ¬›W_ D«:mËÆM–3QØó/˙îCWAßnÅ3{9·å˜÷úƒâµfHIn≤‡‰˝¬sœe“3•6·@‹m}‘©ˇ*¿ùRïNÄÄ‘üÀí.ôLx µÇ	äñ6íëA´^L‰∑à ¨…∞∏⁄üèl∂5‚_Øß∑f@ù‚nÅöä∂	3¬Ê„ìh"u`¯p“$E~~—af	;∆
+D
+E<N8¨ª©˚ƒãF˜1Ú¬¬ò¡L´∏†Ï≥iÅ«‡dÏÎ(∂~j™µúêCÔ'(´Õ?61†–ù^›8m6ÏØy 8gûZSÇµ·°≠ñ)J*[ZÁzR Gˆ¡mj‡07`'msÎYaÁu:ÜÀÇˇœãEËIÛ°˜;üe¬iwªãìdèƒ–•£ºÿ–lçˆày∫ë÷£„0Ç‚I\º±sd˚XÆàyôf WgS√Ú‰‘R_Ã¯E{>∂Ä_ú»M¶§ﬁ|wåAÑpPR7≠¯°°‚6£iﬁ!gyÕõhaŸ˘ÏÅsÒ^	&LQëÛJ¯åäH['◊…DaCO∑í "„6<œ
+ÜuÑ31€ÎÄ¯¿Ô,]Pb\œ]òM∏Sõëe US80 µ)^Ø≥(qüË¢2ŒÆì\¬&óˇkÌ‚ôeSœV˜“Òﬂ-*t˚;Q…Í¯:o˚cõUÅ´6‰« ØÂö|Nj“«ûæÖ„ÿ∑#(»xnÈAßc≈(ÇÓ	(«1«5ä≠L9„Ì∏›EÇÔHêaDìú[•U[—é.L1
+v•?«kbo¡Ì«›f§à§—@¯çÁC|«Äç‹— e∏XwÆ”≠†°)æ–‘P˜*nñvrR¥Æ˛íÏJ≠4Bæà≤Kó3	ß8™-ö√÷ÿ/nlal(jŸækñæ,6 ¡Ï@¢uLíïBv$3û›¥6‹Ë¡Á—¢¿”`ûÌáÃ((©@}∏ˆ$çq¡^âçå†@3]Å±C‹≤;Íbê—Å_‚B¡6{t7fgÂüõQº˚†_¸£I_©~˝mUÿ óËxb¶4¢Ü<É‹ãÁtNßg#Ge#h´\çõ˘0EéÇOÚ)Ö∂ÉY1€RiëéÎ∆^Æt.˝ŒõN†Ê√¡`Qrπj¸e∆HÄ≠ Ω˛æa‹†M∞Å „C’/o∏$±/$;8≥Ä≠K[‡æÌ„°¥≥C<wXOπ]-t¶ÄÔwsUæKpúL@º;·œX4∆ô\‚¥∑Í’úÉ›gãÕ∂ÌΩXXˆHêË⁄QÖ_’V4yây4ÄSÃé,Z≥4ÎÄVCÉF6ß^´âßR®]Så|€»{G¸ºôIêF%™U2óEπQ∏Q°8¶)mp≤x¢·í„¿Ëm2ÓÅ¶¥ÿòß˙ T+Ï˘î-˝?omˇÂ];†∏ÁˆıWISíõâı ≠hﬂ¶ ‘!Ó®hˆœ*≤ÃÂ–`°rèsÇíH¬˙nPßè∆ù√´FŒ'∏¢JX˘ó∑Rs¯9€9`L|€À¡à·∫ﬂ*Î?±6b7ÄaΩÓb·$H∆RëÒ£scTx
+R˚£ ßfÈñ¬;æ¢‘èålkwËLΩÁA~Y)|Q3Vyìeyì§´zﬁÃp2–∏@f√è´àÔ˝Znu7∞•owù•∫€p»t≥Àª÷ªµ"àΩDÙÆËàzl(Çpï¿_Z·±$¡ﬂ¨Úó6~B¬ÎeÁaÒ§IöñP,AYÉ*‰ÆM¶˘fNJö÷/¿[ÛD∞˜6Ó”ùñœ8~ŒZg£‚iœåﬂ∂9àu!`≈£‹â\¡j§;∏}L. ÛènJ… >Z¿·ÀÁeU©1Xïhk„©⁄Ôx√ 9iøV+wÁ2‹Ë‘Õ2+˘òB8;˛åÈÀ¸k£Da£Sj{ƒël4â!–∫∂˚i∞2ºãœw≠Á_J‰Tº·±"∂7ÿ…√»âÅaîî|GçV1Àkx<±‡í?$+V%#Zxˇ±‚»‘M]a”åı€jaµoÎ2è!kn≥(Ä*G.––√é¶yæ¡è·jÒ3g¢-†Èbì;±®‰=<*É<æV7\hb’ó9≈o`Ω3Øµz9Ú¥¯{bvXCÖﬂ/ VŸyä7z¯ejÌzEï˙®ô`ì¸æﬁ¬Ô8HT,ÕıtŸ≈ éjÈc2 ÍúPV9T∞gŸ˙ÁéD5Äeˇá˛§^πÌÀánû”ÁıÔˆK÷}Lò\ëõêıY@òµœ∫JÛ¿◊±b)Dõ	ƒ.n`x‘O≠séCe§£PÈJùË™ã_7L€3`3ç—PàTËÒÒ€Õû¸÷Â+ÔÁW^Ï≈«ˆÑMaËgUˇÛSP[∂±%°Oò§xa√aº^ˇ>ºk≠}ø‡q¸ätl8>£èØg«ù|Ú˘“8Ã%«-b¯≤≤$Qo%!zk>—tì≤’Ò[H ⁄qßÛ•‹ó"JD†~Då√e˛lõr‚ÓÊ4ÁÉ~®@˛Œ≥®î…]@ü¸\™’Ö-èù1º{Êv~oE◊≥⁄ág;[jŸ©gI¿Ixã∏€"B4“˛í6ãøk4›yv,Å˚ZÕ>ûäB7»Al£3<®Ù8S¯jµO‰∫d∏bJ˚SO&&2"íâ˛[û˚‡˘Ù™¸5M£0„úE+Ùòi,≤hçåd(·∑BLΩnbå‚zAÍÑò˚úX€øÏ2Æ‡eâ∞ÿ~µüX•Zêèàr«—Î$ÄÓ¶¯6“p¶∑&âŒ2kﬂ÷e°+QóÑ∞$Pÿûo3¯ÕL_Ó›[≠}f≠E`Â¡x±Ü.ΩÁ{E)•†NZÒ›tbˆ;Ä%ôÒ›Iï’lê~µÀIï'XO∫€ﬁÀ¨Hú}1úäNz|«ñ(M	ﬁÊ‚N«ˇ©Aˇ‹+≠ßt!{ˇ˚˘u∆(˘,˙úôY¢zÔ≠≈3Îk,s;aç
+ÌaãgÙ∞≠d°ÚÒ⁄8ΩˆˆªÊˆ˜∑Ó˚Pk}I¶N5@B·ƒ—†9yiØ í…m$âAË–Kä·+†ØÜÁÁ´“≈si†3≤ª‚¶qp3ÙÈ“á,B(^p@9QF‚|¯ x£i‘UiÃ∏71ÿk—d/&dzy56ÆAà“]Œ÷T(§aDVsmkñ,'Ô7f?ú*ìúÂÉR>¶{Ã˜5¨Á”Éä√¯FÜ”H0ˇÛg˝ÅΩéAg÷˚ë^ª®ö¥ã
+©_ts{@-eÙ ¨‰ØÃI^r‹]†zÛÒm0◊Ww&b¿é+_›∑{“Ö	ﬁR"`⁄8H∑ıÅ◊üAÏˆ.*'£‡≠Ö	 “A`√&j~ Ù$s∫Ú‡Õb_F¢l!T∫¨∂*!#‚ÛTïÜ∞Éˆµ»öôﬂ&ãöÖi»“t2FÑ¸≤±’@1Ég,N›w4TI¢8u¡˘nAaw7≈ü∑\}0}«óç∫NiMõgÅ{yü@≠‹TuDd£~/≤r3∑]›,jÖT>‡ˇ	B¢+@¡9ZÓÁÀâÇøÄÅÎ¥¶^‘Dæ¬ux7f$1<Á∑Õ}Í˛ñÑÃÌíorÈÅªøY^ÁAz≥È˙V¡*xﬂ+æ/ò˘ãGQ=y¶°K{[©H°öd‘®^öNâ>WêÕk§ÚL·D®uKaNâZ|VY÷¡l»îòÀ≥)øÏv7q´·JÇƒM‡5‹xË ıL–›≠œòi’π◊{Z°äµû+ºVwåYàúÊÏJ⁄˘Àö! ≠i¥9)˛$ÖIÃ B'å˛1F‚˝ÈÒÉvØËå9„ı£∑ßS¨Ω2äºT÷YàxŸrûIRÜÒπr&Îe˛F™‹¨sØ‘≤⁄Ä˜ôñS£ÀYD˙≠ŸíÛ†mÔ`z˝U·c†ﬁ‡zpJ„–≥4m`J/éQø¶©jPs+1(üˆ∫z/\≤H˙˙àê9ØŸ Sü){∏,zJRÂTØ£‘ñíD‰}ysw˚ûöóWè˚‡Fä7•˜ÛõdùûÎπ0¢nIa∞N‚Ä&"∑À˜â'Ñ8/{‘_jq|Çåòt/Mäv‘·∫äk¶±±RÎπÏL˚}ybì,Q”–IPˇ"‹Úq˝˙#˜NA∫Eø¨ÀπÉ∑i˚Lïpz{ÛS–È¢Òñõﬁı{¥¥ieÆ.Îœ}…qô¡•Qò5…lN:¥ß⁄:˚–b"À9ôß’◊<€`ÉˇÏÂ[„éª∫Œ÷äÜü@_uÕü⁄:∫iCÉ-¨ SS∑πKMØB¯í	¸ÿ9∆.Òß•ã†úËæ◊a∞Ωh>˙‡˙y…ÿh$yÄ/ﬂ¶hD LÓÌ YÓŒOp∫Ô‡÷Â˝„)@|sk)®H∆¥r/Úû‰0<çúÆG∞ïíSd™’±#WLïoˆ@˘êa±MÛ!˚}4^∏À√dSnöì/π≤à=ËêÊ—œ˝c*˚@≤#-∞Â†+Ü›>ê—ﬂ≈V
+È¨\êQ9Â;–fÑJ≤à«≥°˜¶€ O˝UÅyì⁄´1¢Î¶Nõ6_≠GTMµ´æl{¨e·—v7◊™âÉûlF˚ÑV˙Á ¡ ±{^úG’Cä‹Ó¢«_E«©EòYâd8Âün%F4™£IèÖ∞˘Ÿ_Xπ9ıØmÇ€ˇN≈õΩ^F5yëÏ…‹Ü˙`›vMŸD √î}%∑ΩïÌÅG>dßFUœ∆/úªóº®Ä80Ú€˚˙q‚:-«HÚUÃÎóÚÙFIAõ”;NC§·ﬁÒ–HÔÍÿœ˙õ¬?ﬂh7;Ô4>ŒdKQŸK%<;˛ı2&"±
+.’ÀÍ˚ÜA¥ÓmÑ=kœî=G√h `∑◊-ﬂ_Â…ÜjõGªù–ÈLs|v é"A£¢}sYiè-´U˜¿¬ïI,AH}5(∫‘y\6¿u]àRQ´}WÈ4´8÷S≥&@â
+Àºû:cB»w#YÁØeKK·‚◊DDëí*™—8Íã<¢0[ ódå¡8…W®>ågB3G˛ë$"e}ﬂg.÷
+>ÚÁ¿/’O{RÜ€öüøÅ=-m÷óÄR6ﬂB˛…®y¢Ok˘≥»A˛∏ÿsÔ0Mo¨ $£˘@…ùà—◊é¯TA€^ºÌ
+ÈÇÍπÓ©{„Ehj€ó‹|©Ìü“”_']U‹Uâêâ<)u\–ä§%FüÂc|rÄ≤j$xÚh≥w âªûC[‘2áŒÇÔ‹≥òÖg:¯#∏yfºß¨PÈµ{ŸñCìπiËÛ oV®˛§˚ôDFR¯ú±TÌÙ±]¸=xÂt@çmf{v—w– ÷øYÈ˘·vú)≥õm’°m	ËdfQÜ%´Î0Àijz≥Kªp(®ÍO∏•ÏN>´Ujºì±ØF?˘ô)ø?	cDl∑t0Í±ø—>?ÈÑsj€i¬EÚÓwÅX—ﬁÜÉ=ıfÊ*œÑ´~ê.o?Œ≤F‹Iß©``ù±C≈I·$˜83.∏∞kö¿fY˛ 4àè€bR˘fß”u^é˜˚∑ﬂ=dUÖê˝´`.êxU≥è≈zãdß¿$QˆP jèfâ’yq⁄·_%ˆ·™w*lõ}Ô“.0E@Áﬂ5VØ»Æäî˝—“¡ﬁ< d-qèÚÿ™Ar∑ÂoÉæˇÚ\7ØA™U„Ïö:'ÂÓ≈'ß0ïo›≤j¨⁄J›‡ÔY+ë#Ö£Qä(∆mDFÈ‰~ñß¢ö9ú{ 0⁄´qzåûúw.Ê≤Â‹Ôg6åò>"1QÃhÏrÔÄ3p¥nƒ∏ö)>spÓe∑ìPû¿/ºö¸π$»kı°∆H.'⁄dFmz˘ûµ«ÚËxTïP»Rµ∆€-ô7∆<ä≤sDN¶y–9f¿˛≈Fgç2øn¸˚sï ◊qbflV„'GrtÖ¿LØa_§¶¸ì^˘oâ√Óó'ß©ZCwZrZÈQTgÛ©g=0Æ√1’ô(ô∞„ÖøÄJïøiFô"—⁄—w83N5ñ„·l;Ì"¡a}ö[¨3æÂ,Y÷F™pJ8Ë,ƒ.›h™-¡èâ‘©Óõ£R˛Ø#H_–N™&ù[è∂ê¥Æ¿Íﬂ¨ÀïEø“∑í√‚a¸¢~j…˛⁄%˝·7]1‰9FòyÚÿ»G^¶a™åsâ√·˝.;,¸≤ï˜ò∞ˇ>&CË∫˘áÉ´U!Ÿf¡Lj·Ÿ≤ÄÂ"i!ÄN⁄,aæ
+xz„ŒˇÌ°JËƒ6pÀÆ∂˘È‰…1‘a.Û3_ÓT5OE≠√°Y‰ˆò16%Á	¬∫ç™W{»oƒÔ*†ˇ·Ò`πi™J8™5Ñ˝N∆UÙ8F…~b˙àÊÈ{9Î›‚‡dñ…∑˙ê•ìK]∞é|¥πØﬁ0‹≤h¨Ï˝®¿üíœ£§ü0yÕialxlá‰`<≈∆⁄wÄ0à˝lF‚-ÌDqó‡Ÿ∏◊%œå5Ñv6Æ=	âT(êŒ‘ıN©.˛3 ê}bÙèZåûÆ_k6∏≥Ó’ì$ärÎL©‡ÈàÔc¿_éê	ˇ$[û˙ Ó≥≠pU/ë«óÒ}ö»%√Lu◊lC“O€<iÃëoiƒ¢ëL-‹ÅÇÛ kgï‹r˝Ò€‡ºn]L “b*ì⁄G∫¬*fíÇMèÅ…j–®ÒÜi]PÀ¨^(9íâŒ~‰j/¿0ó(-˝›Ú1¢±¨5ÉÙ≠´)=˘« ˜•¡tƒ•QRÎ‰E$—≈∞ãZ6Fáƒ`Lç™î∂§Mg°_Wû‰˝”À∏£nÊ ¶q‹˜ŒÑéç‡vêÖ§ZóZ¬LÍuÛ;jp¨≥KZ”ˆb≈kÕvm_≥â”u@†F—·≠≥vì®úKÂz4j⁄ù¸ÍÊ6W˘∞â&.ëbBr*aÊ:ÍñÕq};ÿå˜≥Âü U©3“Æ8©V?÷å§“Q‘rËáM`&∆ﬁÎ¸‚tãÛÊ]¨Z¨‡´l«—®ß1ñ{/]mØ+÷)Õt£Fµªî†Q¿Â0¡…Zﬂ6ú/Q‘$€Á;<-≤Nùü‹AÈò2Bôé	G»/±¡tºƒ§C?∂uBOH	<G”ƒpœeG)y—µ¶‘E¡ˇùÓ@0ÜzÔΩ®•9´˛FÔà{†viòLZÄ4∂NL'ıÈHqè›%À◊á/Œ⁄;¨™Ä∑”§c“îc îõÍG{7Üæ+íw˚¬Á¬¸+∫2†Ùß⁄]®Øî¶∆hK·Í„)¿Y t◊7√å∞ A»”=^í™$À6Ù`.`Æπw®ı˙{>y`#Û1tëDÈ¸ìÜËüÙÃÿ…i?6Epˇ±∆∂cûGª»™Y÷ö“§N(ë√;Ó€èÙV∞(Ì`Ô0’⁄%U-,mj≈‚nkDU·áèãó·
+ˆîﬂÏÉü˘'-jF√$8≈£É]B˜Ë˙¿¶ı˜˘‘b“óüƒ¡G´ÕS√Ω à>ËÁÛûT#|Ø)“"¿∑BµïG’ı•Í–‘dˆ™&.üX«ΩÎ„ YÑ' "W˚‚v\ !ÏszKK‰œJÇ|∫~%ÍUiÈ€∫ä“‰Ë‘9t3X`g∂¿m⁄±¸∏£a&V1b^%X˜[B¶≤‰£‘ÙçW≤{òÍ|8€H∫F[¥2ã-∞–GgèZÀRI∑‹π%·Ò ©∆^‹£ÎJ◊æçΩ™˘hã)•µ®NSDW<M™éΩ\‰˜ˇÖ]<,_$∫ßπd$¥Me‘yFåVÄOTÛRªXD6∑ˇ‰ó5wEºÿpÜÓÁRmm˝‘ºú´B˛q Ÿµåìp‘–ˆπﬂÆÃt˘q‘ÍYÎÊhç[¶dêrœëÉ„D%T,π™Æ\ö›**w¶…d"ë!Ã*4£nDæ‘ﬁ—¬Qº¨˙áÀîÚ…ﬂ4…ıëSd<,<27Ö∞∆Ï…˝jùÎÜK1œÀ75_N"cìÉ–v†{NõnbœÏwy£¶t⁄sfãeWzEû¿ÅD_æMóxÌj˙ÃãèsTh∂MXlq¶˜{µ¢®∫πÎaÑÚè¸Q*nã ŸBıèSlâÅûÇƒr∫?ÉΩ9l§1SﬂÉ—‰ÉõïB5ï˝ﬁ™Ím†¯Ω$ÖÇëü8æıÉ€Èêæ§cÉæÕºô¬ˇç˝Fíÿ˚«~ß6P-áLûøg≥∞,JIäo§m¡¸≥ ∫⁄+Ö∏≠™óƒ8B˘B)B}D˘À÷ tœÇ}ñëiÙ•Eà.Ö}l°≈H8Ëè„ µO¸DÆºj`“e*h,]≥ ‡gDvî@ıﬁ¢UÑ⁄`≈ùû)Ñ0 _6ˆ<ƒ'&£.ﬂ)ÍôÙÌxÎ˘›¥∂T™t˛“)9GùÅ*¶< Uãıá;œÄ\3}ˇ3‚bDKÎ|¡©ìπpÖÛ¥û˘ûå&Ä'É´5∫i"ø§ÉtHÔXÈ“ßJŸB∞Tâ≠Ëö–øqD‰ÇwkÃ;n3JL L∞ØH,äVD˛àÑ"Ω%Dµ´M©âäLî˝!Ω6I)^ˇ&åTÛ<’i)nÀueÕ˚öP6HMØ¢ØÎn]ôæ—ÈúÄ?†ê˝zÈL´Èf2RÃfΩ«'‰5É9H	ZÁªòÛä≠Ó%Ö":◊—U9úπÔº•4π r"ñ]û¶“˝≥LÏıÕ»…{_wz‰†˚9ÁÒi\Ø¿≤ÂvG◊ükæZWaîë*‘Q]fC‰˙£√$Í»r3Ä§KYA•∑åÈı◊∑ï]í@XzÇz+¡fz˛Î¯V”À˙IÍ¬Ω/jYY83:>eπcÔïE÷CÓ˙ØY%£>f´Ií„˘-∞Á£b$Xß≥ó°ﬂ4Î{´õ¥—ÈÑ4√”f⁄kæGo£±v≤õ*„ûKé5Úw∫L“È:¢≥ ”∫G ©ÛüœÇÉ¿ﬂà∑¶◊íE,hm’ı}ˇ¡|Øs∏Ø∂÷ß#‚¶ÄãÏQ5∂⁄F⁄BRÁÍÑ:$tﬂß±f¶®Y5Wh‰„/lòîøÖEÌAmkMCâ≥WRès!ıœÕ‚<ﬂ≈~¬ë÷t±g~Lè¶≤Ç5v6í“L
+2„oQÖÂàH∞UZÜ€"ÂG'ÜY#=Üë$ÿ7gí¢»0¢¸‡Ùx©G©“CNû/“Ö˝Ã„db›(¡üú<Sß"MÎ∞	¥#∫ÆNÌg‹å¢Q,‰¸bΩ>O*Ò∆®Ay÷ÿòM€ Ø˝†Fdç≈!P°Œ ê¿Ê#ß∞ó	jƒtoBbØ~bıQ")ø∂ªøx A
+J≠NiQ?˘ÄÔ´ÙÓ€&ëÈ¯ùxU1,Òñ*8¨ZSCÃù¸ë8Ñ+ñ≈Su-
+˚‹yxjŒ∂ŸçÁl¢&âÏπ¥§‹>IË≈11Ä^H«ñÒâO⁄;L5‚≈¸$Lâo3/úZ9Ã˘~@B|˚Aq}ÙzY@T◊ÀÎÉ	ù5&´!îŸKﬂËp;†Ú=œàáO~¢/nÛãŸÜ3±VﬁP÷‡¬æøÓç#h‘∫
+Êã«h≤y,ö∆)∑ãÃîXQiÒP∏üÔŒÌ0±Çt¯´®“$öÑmoAfıÉ+ˆû°Ä/,élÊ‚ú["ÎX¿ü» ‰MkøäSñÿaË`1ß†D±‰ô(
+”z@˝ÿÚP$∂:˙(ON)ÔåÛÕìKh‚O™•Ñ¡)ü–7[|‘&ÅçÊcIÍ∞Áõ6™ ÖÇ’49¶E"ª!]<'«ecÇ~`ü‰◊«Qkì˙≥àv∂èÏ+,¡"C&q4·¿z7¿ôn∏ï‹†`y »—◊ÒF«∫X}·Ã‹Á„’ï≤;\Î§^hÆÌy[}3¡G0VSùb\ã÷ƒÔÕ∆Â^˚V#$,?U≠MWL∏[!f–'§ö«>!Q„ÖÎS˘µ˝F§π°Rk
+ÎzõUêMÌÏ2
+¿'Ñ3WÀ‹ÔÙHí∞û# “ØßÄ¡ôÚäëDoÁÄÃQô ⁄˘Cp≠µ2—`„Prgn”˘Ñ·"+≥£ÀyCòårJçÿ{äÿ7∑<‘l∞Í‰Ís|<5¸±ÇhM“–Ï)0?îh1ïm}qªÍWg{˛ êr¥®•i’©“'^xt∏NàlràW?ubYhöII_sŒ∑H06ÁæPËBBä∏„œ2æ5∂\`jPZÜu§˚/∆ÎÁËﬂõÊ|ûw%ñr≥ÀR∆ı@OÃqvK@ûøXyn˚ÔA…aq<5\L&I›Ô≠C—WÛπ}ˆíœÖå\RHÁÖ \{„¨‚ÕÄ±M·¯Q¶êÓJ¶¸ßÃ?vr™¯_˛–&¬yá·†"&Œ]ZÛëK˛ÜÛoüŸ≈,X†Ee/ˇBÚ0Â$ˆÓÆá,|˘êπ7sªıµµ„c!ˆ§p†ñ˙”¡FÅùì6	*˝„-˜%ç‰Ê°~%JÍœº[-„ªpÒ2B"ÆÄ‚9Ùƒ	¢ñÖK==ﬁßTä÷{!˘züá∫ ∂†=∏Èi›πe&»„R¢–vËÏÔ#_∞π2µ®s©é+∫ûø¢Ÿˇ4¯{πéˇO Âõ9Ï<?qBí0'¯ ãˆ˘Øæˆ’EgÃ/TæZ„XkpœÓåÒ/Ä˝m¬~çÖ<`ﬂÏ¿ƒÉ>G'œÂp¸bÌi¬Üﬁ.=ávv='∫ìI2GÀÚáí—”·?Í3ﬂa®Úw°Ãäx∏ÑP~”t¡Ö∂ÅﬁS
+—∑&p1™√ÿaÜ∆Æã)êÄÉãÃx$Ω√ô™¸V3à›◊ı -Ûä—!ƒï±ßÃ’]/∫'}°Go#aùHëΩ‰¡¡5ñçˇ<)ÎVÆ…6Õﬂ´ÕÊ≠Écg;íS,¨˛ØÃıè5‚7axÂﬁ˜`[W)Ÿ´øÊgÙ}Vï˜(¸A¨H;pÒΩ¨,/2_'˚∆ZVvrŒ îéÒ”ÖﬁuÉ!g√vû"Qñå6CﬁX"¢Ú"{J#f¸¢Óûí∑« ’è*m¿Ò∫@F&©±∫æQ9]3Jñ»k82Gº–´f˜RˇD#^§ÅÇ≠¯3∑#üKú|‹ó>Gm1 ~^PêhŒ:p‰8™√ﬂŸ5©ˇﬁØ˛ç÷¢å!o\¸˘aä˜÷œ@Êµuå[f»Ã2(«ü¶V¡qX7˝ºöÓÚÎx‡˚¸3{B‡±ﬂ.0*Äó@æœø≈xF∫V∆T5≠N®—O7›à*öñπ‰L' ˜ª&ùK¿¥≤Ãn∑ìòŸs +bËBÚµ/•˘ú!øºTπ;H	ÜƒÇ¿¨VÛVØÂ3—eñŒoa}ü¬Ÿ
+È0d+U∞dîÇÈzrÎ“ÄÅ®≤  õˆàŸ[NŒjÊªâƒ¿:3ÈÃ<dÙ‡9u∫åÌ
+†∆D≤¡qÈ∑%Êﬂ ˘≠Eà;¿w€∞ß0}¥§5Ã'ç»¸Ù‰`,«ˆ ??.Ï∫˝wf˝QÖ'7ã7Yo'y®hHYµÒXÃA!P3YÂqq≈≈Øõ°\µÅáVù#,$ÒjyÇ‘ÜÂŒ1|qÍ&€åÎ8^Ü[iØ÷·hî"Ü˛L,≠◊-' –∂i’T45Pï2Ï2Ã¬q≠√Ó&û∫πÙ^q+√@G•∂n!óƒ$6∂ÈÇárw&“µiKÇ{‹È¢z#™ÇıR0§˚È œ\≠{M5„nëOj=/ë OWπo_Ú?÷x "à…ªcjÇ›«äeç4}†fEŒÍ;zŸü˛óﬂ±)≥W)ÅO∑)$VπïÑV8®&Gù˝òÆˆ s˝ÁÔ8Ëˇƒr^ﬁÂ·ïÅzXˆ¸w@†rN}¡©sıe˜M˙ åëo†Ú¶
+≤äΩ€'Ø~„ıé^d	À∑ß‚Ü]ﬂ8]éxuøF««J.öÑzáo|¶*ZE–S±é˝9˚)Ì`1–PPGTùb#DìEãŒ‡˘ÅÒº2ks≥o#NŸxÜˇµ£Ÿ!_Ÿ#%Â»ÜbÇ?¨'â≠°P={∑3´ºA{æÆπ∂N°á&ê¿›9J‹º{4})„ihQF^ΩVˆ˚Æ7•
+#¥E?:Î/a^ ƒÅÒí7›@OMÔÙàû$µÁñDŒ] Lº≠{_ÙŸ+∂èÖn_øÁf¯‘Ùuj}ØﬂQÒw≠.™PÁó€Q–Ëˆ9D£‡»|≤B
+Ù™x÷°ü•N<hX=Ω*ÚŸ∂ ◊“$¢VåZÄ›yß}πêÂSúe·ÜR`F‘‹'/Ë∞A4≈8±(WµΩ~ÒeZ[Mü¬±…¸Ä€”—jF(ﬁÑYH´ˇïay≠H4◊ø˜c†	Â∂ÅCÔ:&pÁ≈ÿ9ö?ß6l£¥‡\òäÏq◊±ã^îîú!PøE¥”±ƒ0Ç"&˘`˛ŸÑ≥æDiPFèUß‡Ö+/ò—M”§hm®‚uBªÚÎƒú±wê¯õ5QëX!C∫Hv$}HÅ2)å/∏áC`ŒçÎ	ñ«…‰xjBoowñ1G\/5ô¬RŸXå¢π£≠˛ï∫1ÇÊUò‚ùH\5˙^(É02ïÅ∞p1∂Ø7©·RcÚ+C+êLòÜ‰∫ÏKçã$»ò^‚ûLoˇMv√Õﬁ¿0∞Ypù¿Hdï3’õ˜¥U§›ú⁄‰_´ Ô’⁄=Çˇ RkhdZk∞åà:3π]Ω"ÿÍèŸ.€Ìó®lô_lpGcp+òï≤°3»%kÆè}QÓn;˙¢ VÆÿ9Dg*hœ}≈	î@S\@øsDıè[Wƒü§Äã.7g&àâ\w∂‹^H/C&¶[fRpÎΩï5<MÇ–UòÅh≈!E®Rfh˙Ù5ΩRc¡ì M'Ú≥ˇ®t‡hêS@?èk≈ÁõÑÄ4”∏zü°¸mÚ#hÉÓg„®π°R¯˜√a˜ÊéëlƒZmádgŒqE©ÈÊ
+ w∫öwÃÙùƒŒC09ıøD¬ÀE£,†^Iõé∂Dç»1˙ã ÿ˜`Eñˇ4≤‹'§5z˚„	ﬁÅ(˝k':ΩK∞nùV¨Ò~—jôõ|ÿAúØææ™j¨”Î_LqﬂB]w`¢>åNŒyîøéhù≤@ß≈5löG≈W6◊Üó‘5ÈØ£…∂ú…º44ÇØm‘æ"ˇ~BN§æP∫â ®…÷√äYÖ»?º(;¸ˆ¿ì,D%âV•^Q\¢  Vˆ˛ØAÉ§î}uJÆúø FH+¡µ•á5h]H`	7—z˝_¶tﬁ˝d÷Yâ4Ÿ!a!Œ…o)?øï≈û»‹m‹C v"Â·åµâdÛ∑˚R◊b¯ÿ’œ;*‚H¯÷\ëAâc{Ó`£ÉtÙæ‰2 MÑ$ŸH‡x¥∫Ìvt`+˛Ω`~ÆìÛTwìca€ØÚt˚Uﬂ◊∂¶"çŒ xƒ1z¸èq9yˆV‡&Œ•Ï∆`c`%ÿÍ–fg¯HçKFÜÃi,‚ä–⁄¿hm›>g”óˇ≠»Íﬂ Ø‘™¸v˙lö≤Äí≠%ú,?ª°¨ÄuÕÅòçÑc?Lï#¥◊√∞&¡/FxS™¿"$& Fje»T∏ó5´€ôòÛWà¯JôÄ˙√S˝‚h ≠e	$VRÅ-û ÛúÂ™Á1c^ÉU¬P"e÷—€u˘{≥Ø¢EZû®∫•ƒIˇI‘{GΩË˙Ò1÷d=ƒ+F.d≠»rwj»0¨ *gŸƒh+≥q_èI|›{£“gñFaweF/”wë'-æ ä/÷¥â"1†…Íex-ô®π8%qëŸﬁ˚V◊æìœo°√÷§Y…8˝H¸.gW7ÆﬁÀ-Ê˚3™®DÄ5ñ*+!ÍﬂM$Ò7Ù¯NXX3pr‚g ˆÉµ=∑(í`%ë}±PoM»Ω>=l ~˛à¯ä‰Ñ‚c¸fWìΩ1iÎÙŸºiCÕÅñ]ΩWWè Xÿ/}√Ô“`ñY‚ËVóG,©ì
+àÔÛ˝ƒ-ìõóŒ¯| ïe…f°‹ÉMùÌxÃp,P3K.4ÛÃÎ˝,aådrîÑÓ[°_øQgâ$xX‘3¬ôæ≈@‚–Ù6ÒË’”≥Ÿø≤y‹ª≠dM·=é¥¥Àp¶ñõ–Æª1Ö#Ç©»˜'e52ΩõeÙ4Áˇ √Ú©a£!Z‘„¨Ödä≈ß‘õŸ°´•‡ÑZ∏7o÷°ŸAÇ I`‡¬Ö˜˜<ä’ç<Øî’ëeß ?,Oó¯9àÄcäç∂C√0›Ò|ﬁ]@’hÏ˛&Z8#å≤áyìçbπµª„7›‘ﬁ‰•;º¯~ùû3ó;VO“TÙ	»…‹;V‹ùÿsC˜ñx[&SµG„˙2>‘‹^
+ZTåOä‘dÚ ·{≈ÿg––ΩIƒ6n“rl$t[ÁÜ¬§	Åá©¯	ñˆ`74îÌ*ª‰ΩâMÑÃŸ˜∑vÈ”FÄ§	ÓG€Û<’Î÷˝£9áÎ`Í‚¢cLéRMır¶¬8bÖ≠MW]RÖ8ãD»ŸHw®ËnÑXB∞æWÖ€ê≤áËñù2 ^&B~ﬁOj.g‰lIÄ≥y±VR˜∏≈¬ùüë`˜‹M^7?(øX;±ÿvf „¸6*mXÏ›Œ©+_¯wÎÃ:äC#Â·ácfsª®|Ò	˜∏8úNSÀmÛÖ[¿‚ˇi’•4•1"¬N˚ÇÎr¬úöø0Aˆ¶ÏnWùl+@∏Õ/@–Ï¨‡ËÂôÖ¿òËOKà„xhíy}ÜëLv
+o°:d‘áV≥çèoZ£õºôÒÊ,^M÷öSrg≤∑€—]§Ù¥´˚;§%çãR%bS∫∞±bºq\ÔàJËYrVÄé{[T±ïL —⁄jø6N‚>∆¢g√:ﬂ ≥öoÊ˝”Iz9IÏÎ!Å◊g :”√Ó8ñ({°\oŒ%s+=9©©tpπZöNhuﬂÇÈièiôË†ãï[Ü"=ëI1h{ÅE!Î˝T°õ¶I÷5!Ω1ÎΩóhº±7…ÍèFåÆO_vßâù„–[Äw~Bù›È#o4X˝Ñ–≠öÿªayó´˚dñÃH£≠sõ 5XŸ>p˜í·DJ!∑ﬁ"B¯ˇ•K≤$gm‚8¶†,/ÑπÄe∂◊≈o
+Üáà¥—Ÿ7CÂ∂Pe¡ü›◊hÀ#GΩU¸±e…#Hıoè˚–2&§‡Ö2€ZÔ∏≤ûµÏπ	ü<F(¬Õ:3æ"∂†…+ƒ‹Nòìnó/‚˙îßBìy›4P∑ÓáÜß `¯?ÍP˚¿ï†ÓŸT}íú‹Ê≥ˇ	;‹Ü≥™≈Ê∫b#‹Q=:¬>(¸XKü’z}ŸØRäQùüD¨¡∑Zøßﬂ0=«C€yvd"9bXÏ™¨î@´m´¡g£≤¸6∫âá÷dBº≥Lh6ªê'ˆ R.^5°ÍçÛ!—]P^€
+rM ∏#Ii<â‚ñ∑ÄU–Gë	≤∂RV¥æsl¡¡?°w€ºÚ'Ño	‹Û§â´<∏√≠Ÿ$i”Ëh îF2?·Ö⁄Èk±úä}»L0ÕÛ∫±ïÕ;çÖI+€ôª;L=0ç˜{9°N∞{f,>dc˘8®O€L±‚skÉ9’óCÔ$á§’¶ .-â)ìTÑ›˜Hòåƒr•P'‰ÀØ£*!b¿û‰´6”y—MîÏÛﬂ8hƒTŒı∆≥™<˜ä¿Ùﬁ^≠ë∑[2•‹@ÍV©Q9m¥Ñ¨Í¸Æ§-e3ó70•QäP» "ONéÿ÷szøZqü8A≤M∏a¬˝1¨+hkBq\æÆEé¿wΩÉY&÷0ÈïkëÑ,#$vÆ¡<⁄å—'>k|-œ+F(L7NÛ¨îüL]¶udfö` r¸9ëe≥–çk)¿{v⁄^–$ùÌ$°T%ãÔ_ò˛IÆ§låã…?“gﬁ‹ûãÜ-B∂÷x!TÖ9Ùûn&√Õ∂)ﬁN%êÒ
+eÀò":≈≤gò…R©jVú)óok£ ë5*éhüù≠˚;¥$¯È∂ìµ˘Òwüó)è™?Y≥ˆ£àUô3Kø∞Jhh›Ëóäç’êzÃ(‘øÄ5gfÜ^º∂pu:˙∆4ıy±qih— ≥´(>w7m∏%ë‹zﬂ›_)»¶5iq‘urJ,ÑﬁZkìΩÁÒ(YXˆé%”†=^õ%”oƒØ.`ˇÚJtÖà∆À‡$Ω…[?'ÔY•X…„ùΩ◊vòe5K⁄∑5Ë°±ÉÅQ∏®WÅ¨a·jà∑D¥5;˚nA äö‹¯%•>Äƒé‘Yqß¯,P˝‡"„üYrZ~„%∫Öaªò≈o’∞?vΩq¥ì⁄~˙ÊºÉÖŸ∑⁄ëí=æ´K•
+EÆi?˙≠ÚÏ∫·X? •g=Ê´4è∆Ë˚πÉ€7fZçÓµM^ΩÅíré∫2¿¬“/â!!rÕ3ªp∑%∂?¶	‡XùÁƒFWW<=sÚ˜/§2¸ﬁöôûÈQÌ∫X†æˇLv?BølB8wk{GHÆaHê.îJu˚Ω»ù'¶^%Å;öEß„ﬁá†äMûÄŸ;ê–É&ê“h^Ï2"∆ÇøÁöôw¿8‰@'/$ŒÁåéÃ!π‹+ﬂ3:ø3XL—Õ¡¨U=W®6k*#ÅV|.ﬂA öé5®¢¨°tNøë≤59úIöíêAÎÓídË∑# M“ °˙¿ï˘wÁuÕt3È(≤Ó>kÉ]gÿx≤íqcÍW™∞T∆Ñ1¶ßÌÅ*$SÒ	wÛÅ‰SùeÎÒâ^ „¨çÇÀÕc’‚H.BÅ¶ŒÚ((°ﬂGTÍ´Å}≈3˚YÃÈÇ˜!jõúæ‹&±∏ÿÛ∞q“õ∏‘©ßuÑ*∂Ó»ˇ≠∏Õ´¯T1’#ç¶\NGÚﬁá£X«:©ÿã˜zÁ˙6ê@öûs∫C∆Ìîu¶ÉVAO˘ÇqÀÅßà2…eÖ∑©8∞„d ^ÙÁ≤tíìcã ©!Úø€∑ Ûc˛UÔ»π†%"„TÏÎù?˚ ÖF1˘:>"‚UF∫‘KùËVjcŒáπ}·U®S0ØÃ{õLı{XèïÌÅº©–ûÃy≠?˙ûÕ÷õK
+;OßªÎßH;ÂgYOiÚZ}Ù¥§MZÍg°jÑàÎ‹)MÕ0Ÿ¡ïÿﬁø7j}§5[˙[6ØˇLoìÑÔé*î{ÁÆ&v«ÓHÿ9áÉSf“yÕ7PxDò‰åCyÓ˜ÿ«55jH‰ãd/Ù’≤Û'≥?°ù‹¥• F∆œÏNÏ—qå˛ÔÓô ´©óŒ%:ÿ¸Ö$µw˙7bÉ«˘d·¨¿&}@´»;≤´-zÚ9oÅ¡ò$´~3*3Õi4^ï◊`’⁄˙Ì·Tﬁl≈>’àç¯¯ınK‰∞∑Vr˚Ò- 9É9πf…£¯Æg#j‰‡Cê?òëÏîmGˇÆÕî∆∆õ,Z∂§äîÍ°Å&π¶{ﬂÀD¢|>ÄyZ5âÕ·®…8íáø@«ŒÏí_ª*ˇ*‰‰c‚¶ã7#£;±⁄	˛ö„2&%· æ·p~M|ÒèvæHò¬'ü÷e´77ê%uäd›˛0—˙P ìÒ£çój√∆t}Ø·«"õMø≥™G˜ÊK!6ãåñB£˛9Ù]P‘ÙÀ‘â;>ôJ¢˝û¬Ûe"VföàF≈≥]>Å◊ê∫≈<¨πçZSÁy‹´©' w} r—Ï£Pã;\:©ÚF‚GÕxÎ5√l†^9øƒ«`A≠∏àZ›£±«8„®ch‚£˙ÈU!˙ÊÉp?Áßú9eé§téùfÖòŸkßÓ—¿ö7Çí
+©ó¶ÈÚKˇ˜¨∞Ò®≠•#¨æ9r–º¥ÃårúƒmùÛí\üi∑&VkoÔÀÔ≥|∆6ÖªÊœ˝Jı˙}˚Gπﬁ≈‹QgêÚì6@TeÍ√Ë˜Îî6ÉEµ˚Ì<ä∏Îk3'‰s‚µæûv”∏w§Ü’∏ïÉÍπ√çΩN	?ë‰HøM8Q¿áRÜ1MˆQ4Ù¸£∆¢ !Og˙Õ≤mç◊™’MÍÂ¿ÎfbÉ…#m•^™ó±¢£¬"Ωí~v˙cØjÕë{ví|ﬁµÿ,ç‡9ÅUK¨Mhêud±Ïú9ˆr~ÄÓÁºü∞V%èÌ9≈∫im.ùö\Ióœ\¢2Ybû¢?Ù∞8≥Œ?ûcaÃ√Õ—f@ÛàóÀNQø/WùtiYœÓ	˜≤U0ÏåÅ„„ˇLJı@VNi™xöHÆOzf‰ﬁ:ä?ΩK≈§T¡ªU0Ωî`w¯Ær˝ò≠;‹7ÊË B
+-Fπ°Q·r+Êºˆ]W˛ƒÌÀ¿ÛfS?¢„ßç-∑“-˙?ùT˘œπ«√ÕÙ)∆ÛDÿY_m¬–∏§R®¬{⁄,bwb	∞%e£¶h˝öÄO40f`Œô`∫*fíµ˝®~_;Ê¬`À=ìQﬁ?MË,AKiü¸Î]f»πs∏Dƒ™óÊ≈'Qü|ÆÉ`Fê–∫I"ÔŒã∞ﬁ„Õ. <©pÇ¨ı*Î’¯ÛÆ‘O”oè^
+e4	m≠/ríªKf&ëÛ~◊KÆC†‘qzÏi£æ∆«°ŸkOy¡"<JµÃD[X5√‰!ÀhÖ—¿¥x›Å››uUÈÀRä7OI∞#!5’~©P≥Ó=
+`5R˝«ñÒ%)í˚ÓCéó~√O≥>Z˘CÈ;–48Rf◊‚/öÉÕØå‘À.≤ïXA‡ñßPÂÆ‡h—™ã:ÛÒÛÿ≠?√~≥xËƒ¢âe ·}{â‘ÁœÅÈ;?RﬁÎﬁ‘∂≥V‰HF7ÅóÊ?ÄKÄh	⁄]ƒTÓõﬂC}3”‰‰l©'TÕ¨9æòX"Ib¬@∞ò ∑F‰¬∞àx6∂ﬂê4{„uM
+ƒj6í#π¨´∏‚5‡≈∂˜’”û@&Â5˙{ÆÕË?£¬6πS^Ωâ≤Ñ∆Uû∏ÆöŸ#ık†ç√;ì7πÍS–,:ˇƒàßj‰:¿éÀóT˙˜√;Èˆ±Õ“—åá$+iµcrÖo
+ƒßŸ€X3Î!ƒ
+ô≥(â2≤öN’Õ⁄Ÿì© †¢ás\¯@º≠.«U	î◊W∏õ∑7)´é≈ˇ€∞}â<Ä#.äÊÎØÖïê≥’~÷]‹:fv¶‘+UûÇŸ”fªñÉCUi˛olÃJ"
+gÕ∆s‘uñÄÌç∑«∞–µãÉ±£π˜á˙¢}b¢êÊlÊ%∆6Á4´å∂=;n@2Eá”/ú∂•á¨êA/Û@1‹◊∂6~∫Ç–£˝dU®–≠æì˜P+íà5ú6›bí5åÄ/7ÄΩ«YxÈó”´ì›L9\…Å_íÛ¸mj¡≥#B*◊e…{O‘Jö·˙ıùÚ(Òz∏„B`Ö√Gê÷ämN‘Î˛)∞6∑»kfeCùG{˛;ÌâzEI[ØllpNãOvÔˇk2ø-∆1ÛDÉÏœwÒKêµ>s≥À∏îÙúﬁ@™è4z
+àÇÎ–}ËƒèØ~Ú˛Ö y˚fÖé%õBÎÔ«$\¶;‘•õ2Ò-‡ÛÛ’Ú‹í Ú$'}EÅ ù	è÷≥˜&8‘À/âÃ2·+gÀ‹8ÛXºﬁÆTm*ÀÿµW„Å\ôÏ_∫ÅIî•^ë#|©†◊OÚ¨˘F©IBì÷ÒÍÔ–xËËÀû˙Ú„*^t[ıGéJ®E–”EíÈˆ#ÁX…Ï”üêj"lÒòC7›®Ú⁄è =®ìÀÒ›bÙr˜‹Ü]âå+R©îÏ πË$l%ÎDÇﬁıÄÀÊ|‰ßπ.1È§” íçÏær^$c–!àXZãÏLı±’b}Lø˘MÉÀz^π\L jœ∞¶z…áÉTˇıZò¨7ŒP—ÿ?ÍË*‘N2dù+L¡M6…¥ˇeå` GA™Ω˚⁄ÎG{Ê‘mUwyc$ó∂∑pGáüºÖ„¢íaﬂ&páG4ïjÑ∑+†≠
+îÍ!7”õ.ºGﬁŒ˝µÒ?…,∆è@å/X⁄fB·ô6ÖémLõ õg@‹b¶E´—SΩk≤wäÃˇ√Øˇ≤ÔÆ$#ÏÈ∂Ú™!qäÌöÕôXàwª(ÿÄÖZP∂Mî¨ˆø√'ŸW|ÅÄ>U≤cEá¶[ËSºbÍã #¡
+˚ëÔ7L–jó¿πû)$ICÓ”&ŒöªlÛKƒˇÏ”;'é@/«√ë´'O∫QGF7P«3
+{Åå:TiÈΩÄ{ ¯º€ÙHûm˙ÇF®fWS≠ÃŒdV·hºÉ49ÕAÓÇ1v!`éÃîaíÔo⁄ûÃDÃ÷F1‘¿3“Èﬂñ`‘∆k´ÇÚﬂ“©‚√∫1e›R ~á”ª◊ƒSI@ÏG5åºãXïaÔ}Í ?çDﬁKª.$ÉQVGB»ç}∏Mö`~˜dæ⁄ªzıpƒ Ø`ipºt”¬˝hπ£-gˇ‰e3¬Åw∂ú·›Xï›È*‹ˆ#œ?@k∫h–F} zy]ByÉ”BåTÛJ	>Ç˛UÄ]dËTÕıA#◊÷Í°ÛÏ.æMıJéO˛‚1iãø2%˙
+úºã¨:√‡T±'i	XÁπùß ¯˚^bî§¨5,<}3øΩó∂:2%ÏÀoÚùg-hGÓå.p∞Y1vGCÊuÉ¥?;ºTÇ”!à„ É…NÔÆ?
+ñ‚+≈b§%mj„m/‡FÊVåâh@'Â◊i†ü∂WSˇz Ë2Qr∞◊XËSÖ®⁄e¯hJ˝√!j,‚CÂ7ß£Â/H$öMﬂÚ¯~»õvJ∏ ∂˜˘≈ÉNÛ)mm≥Í„è{ìåe⁄™`»î?òtÆb…ˆF&ÏFÿqEŸæWü’8=£HË¯>Í÷e‚)Áu‰âÆîΩ|˚◊∑‰IFŒ,aúGCÛÜµW3C•{tŸ}H·Åt•áèÌ¨ûbÒ¬¡≠Xÿ„4∑BsbKHëΩΩ}aR≥s"PTóu¡D∞”ò2ÂD◊X£É—˚˛&i∆|˝m’,[
+WÃ¥füyÉ§zbrµHˆ¢«:ﬁ¥La’èD˛0Z^ XúôT¨Òvü~‘~mìÉËﬂ§HíO¬¨∫Œ≠(ÏB'•ü‚X*<y¯Tal?àˇ?§l¿b—Ÿ&7„˜∞˝˚>Å–≈^Ó®<{¥T÷å&∆ı¶/«äÿ˙ÛÔ ˝¶]!MFÖ#’…ä é†*v˛?»±Œ∑‘F}∆NœΩ\W“ºïﬁ$X‚ÙfÖ(<§–NãoEö∂Sg£F·lÃ}˜∂a#Tﬁ⁄—…€¸c€‰0cãL∫ÁŸ∂ﬂUÙ±ΩR∫}¡tM≠´K—≠°‰Ñ]⁄ÍÈ3ÀedÅ”ËUSô5åå˚ô¯ˇ*∑àêè“SGK‡N3∆·‚ﬁQo‘+(„Xfæ◊zÉcı›ö‡ÌFíŸã∫¯æPÏõ}_µÎ_5MπﬂK|›F¨Rz›W3≤ÎVº5+Zxª’Û3Åg,íB.lÒ]˘$ﬁ·^ó)ÕÛ®’\t¶ºqc÷BÆ©:’o{?,_°å Õ≈√!§≥‰ìeÇˇÖLú¥5mÎ‰)ÖŸÔ7ÿQ⁄v»ß◊J`-˙^`Ng.=o∫À˜G5alMÇ1•&é	¥èo"≥âWŸHàÏù0q¶¢·#P;Ò.Íàw	o∞∑2˘NWüúJ“åp™–ºüÉ;©îü¸A9m4Ï“e˜–6Ø[8·h^Ê‹…>¯çí~®zIiÜ§∂0ó˛·‡ﬂÓÌN%]¿ŒÕf∞◊˘'F‰ÆªwïLŸÆ‹ﬂîú^V◊gû+(∑˙fgjŸ8.•Ÿ{ñ;Ë=©f/$3ı5µ‹Y6ÕÈÚœ¶·?;Z÷tj⁄ÊÆGƒºHô“¿ÓÃL˛"&/îÍRﬂd ìÆ	T!hÿ_øÁŒz9;[fç4u5û⁄“‘[`?ò{¶¢4@ËíSÇîü·ÚËõ≠›⁄g%s0≠∞‡ÉÕ®$4IãÌ-»L¶˙ı6ö˜"ô.∆g‚!xh…±
+ä<— ûöir`¶b'ª4ÏöÖ7≤-B@ ´sÕ!πâwxÆ¡myv◊è9a\ˇmıÖÚ{œ]π[ ≠-p-.˛ÁÖ˛oÍåÛ∂üqÃ◊üQ9ù'0»«Ïsˆ¶f¡dnPÏ±ÓaRG&l}ÀL»6%∆Øﬁ2ÚñÉ'‚ÉÖ»º@ÓUàcfÙ;iùGï 3Q·HhÎû_xp∫h¬Ãﬂ‰π.<T<êü‰ZMái*÷3Q9ôÈYÑVpóY´òp+•<R∫∂„bh¥'j'AàT€˝(» ⁄FÔÁÌl¢’»ö…H•¿Ù•K≈]6®±Ö4‘Á≈17Ø¡?å‰#°Hè_ß9Û‘sa˛µf∫ú1MEÒ¡T9=Ó$ùhiÇRŒ©Ωj3uå§ìö‘6¿!Î0'‘ß.e®aÇ®≈"„˘∆åVÙø˜roN,eÒ\ûºbü<òU*cÛ*˛2“è)(tZÍ8_àÓ˜≈ÖDÖ∏Ó?P 8{oÖÌüùXﬂóIç∆^árcçF;Ô¸µÌ:)÷ÇÈµìYî4Íy[Á«n5ò,s“ö»ÿQKË^Â 3±Gúà:	#«‹22ÚAU¯ªÌL`˝C);Õ«HyÛ%≠ÒvÆoØﬂΩ+B¢?ûd9±ıfZm§ë#oÍv(Ω|[>ï˝âXY∞◊‡˚Ëzﬁv»—z©RÆKäÅ	ïúTùﬁ∑‰ê0î˛!¶e¿Ï∞á ckÏQÇF“ƒ∂ŸC√O’KW <uHôa„Ÿ=°óœu ÷à?#R·∆I’…R ÂoØÃpW†πü(÷`$œUñÎ«h≥∆öÔæﬂ^~FWìXÃ1R “›û÷:HL<1ÙúÒXåíÿû.S¢‡√1ìvù~∑ÍŸÒOAít)Êt9îr ¥#^êå'/ç∫©ìß\mü}VÑæÚ˚q6XŸ=CãÆQw®&h¥⁄Ïﬁ)Ù“.’õ1~DŸ˚T`g®PV4˙°Z§BµÜ6m¡2å#}™ëŒt2‚ ÉØÕ¿“‰iÑz6†Õ√[.øEf¡ü—ñ?ùÂ3˘pﬁJ}µÚ8CnËp€µÿ4j5≤4$yQ€‰oOY\¯¸ÈM%íÔûÅòªœçsñ&;G¶Áê¢XvDï~]„Ò q¸ô<vŸÕ≠0Q∑ TƒÏéØÇN=Ÿ¥6Ÿ‘Òoê’¶ëº'9\§Æ ì8WlUMB°UEıæÂ'|Èë,Æ#QZÒ´‘g·îA&∞óõÅ¬m$ı›;Q!aÇNgTUü»}í¡YKYã1ü£svÛ,}ÛœJà∞MØWÔ†=Väª›ßõ≠´Ç
+2A«IJÚŸ¸µ∑¬≤òu]bá_≠Ú0®´™~mì|ÔmÛœFÈp[q%®0Æ¬ù^0J.ΩàKÂ´ˆT 2›√%‘9¡¿†úñlâ∆∞vç$ÅßNôÚÔ/≤¯˝Ü2qáÈ§‹Æ±F!∆>3Áfé≈îb+‹G~∂g„xOÕ˙—¨WÈaR‰‹±ˇˇI»u^!o:ó|>RZ?å]∆„µYﬂØﬂ|ô0<=(Áèu 8ÂÉΩÉä!öÆ2-{,ú¯Ã•’i˘ﬂAä0vííP\IÀCÏ j-|Q	¥dDNv∑H{ fjåv“Ä€"ô}hk»?ÌÍ:÷B∆«wô††´BÛxÌK—Ãêåºû›©∆´n‘n≤|!ﬁ}^í„®“Ï…œ˚ë"R$=|c©ÍΩ”+mùY÷tµıÚ_µS&<™¡dS˜3;å°h+CLä.áë√sò3Ñãí5rdü#‹Ì≤BVÛ∞;Í¸∆™∂Ω“ñ$1ò‹4ﬁ⁄ˆ÷¡ÚK7É•5 ¡»$\©˘`ø˜qHqèvJ‡ëëWüM≠éGÒkï®Ã⁄·ïv‹™∏õ„√Ûø´7ój¸ú±ªkÑ<Ó„‘8¬ƒ+∆œ—av∫¡_·Ö|ÔN†t˘j@√ 5¬¥ıÌπ• ú[ÿÖZF¿–7&Ê-Âï§)Àéœm8@?ºÑÉ`ú?Å¿`ò_uâ{tÛÓWM:˝qhÂ”^<ßÇSŸ¡}yI+˘∞íXóÿ]]ËË3˜Ã@u<P…aéçÎEŒ¸ø∫á£–Ó¬_l!bÛô‚¸ öÀ'pXTÖ»Ïi°ID÷„´&8@.UΩF'xêI|MpÕﬂı0ÈÄX9„Yu b â¸i» åŒërQf?√£ßø∏S)êtˇIqbt—‡M|ãó;±9»¶.2Îr≠Qm ?XΩÊ≈$gT∞@Ì,Z<¯fÿoúäÈIà∆kR¶ÌÍ≈±Ùß˛ÎÎ!Ô˝J˘√îƒØ`h !7 ˝7ΩÎ/ œimﬂaX7ˆtR%'$fŒ∏V>\D∏(Ã|\$QIœıâcRßöù„˜sØ‰KMñ#y;´Ç≈XÌËﬁ≈êà⁄~&£MÙ«Ù$…GcRb«!Èx—°â
+†òÙÎ'u»ü8ÄäåŒG™s?2>∞qj¥sYa^∫PîQ∫(kË”gQ¬ﬁhF*d.¨ÛÔà€vYWS{ûæ&ë*1vÓIH4ßàsû<Jˇ.Eﬂk∂;Õ˝!≈™˜çÏÚÁ'&ªJo√Ë˜)Ø§fì?Ø∞5™”s:}È0•Hw
+qÎıxàÄ—	0£s¯¿nƒ|◊!ÒØ–ƒmG˛AF±QYáVvk∏wq%Éu∂ØØâú®¢‚2z)üE-E¶¡&^¡eí"„í”ƒ ƒÔó/>^	˚äg/u,Ï©™@\Z‘Ÿ≈œM"û3FFÚ∆éK‡}µHﬂîNB©›”‰¿°∞´u™Éûn˝µï¸⁄í±ã3 #!7›ÂÒÊ”ë¸†e„ÁΩ®1ÿÚ˜6ƒËtqˇUΩ≈â»'—PÂ—
+u–\û}¶‡¶ËVhw©F»Ây@¿⁄Î˚D-ÉÒÿg≥∂}¬d˝‘]ØYMj]qQfçk:çWíeHnÓØ¯µ5àé∂èÕ.=–·8êy¨kP∂:%?∞A¿óç’tÔ≤g&ïhäˆ<îù≥mõrû⁄Û°ç¬"l*”y?◊H†•MJU…?ˆµçË'<:›uÇÌg´gÈC¡Ü©RZ€b‹T/ºíNr£ÏL!.∂c2hD∆ÖZÌE2DIbC¨wD,à:˜¯i˚KM\√/LuΩÄ±∑¿≠ÈÇË¿ùı|»oüëö1L»xãnŸQi&O~‹Î<ÓFﬂÁÁ®Vï]ä¨–˝P)™/i˙∂•L¬.i⁄e°¿}XâÉïü`5≠9˚O5¸8 %≈ˇJ“IO§ÊY0Úw!©,Ä´<Æü•Z◊E‚Ω⁄`>ô)∑à
+.\-Ïœ*ä.5}c'∞C®
+]¬x:47+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:37:50+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:37:53+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:37:55+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:37:59+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:38:01+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:38:04+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:38:11+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:38:15+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:38:17+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:38:20+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:38:23+08:00 ] 127.0.0.1 /iplookup/iplookup.php?format=js
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Iplookup
+
+[ 2019-11-05T23:43:48+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:43:56+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:43:57+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:43:58+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:43:58+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:43:58+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:43:58+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:43:58+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:44:16+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:45:48+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:46:43+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:46:43+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:48:29+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:48:29+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:49:10+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:49:10+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:52:46+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:52:46+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:52:49+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:52:54+08:00 ] 127.0.0.1 /Admin/Index/getSideMenu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_system_menu` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_system_menu` WHERE ( hide=0 ) ORDER BY myorder asc  [ RunTime:0.0040s ]
+
+[ 2019-11-05T23:53:23+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:53:24+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:55:07+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:55:08+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:55:09+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:55:09+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:55:09+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:55:09+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:55:20+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:55:20+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: page D:\phpstudy_pro\WWW\App\Admin\Controller\AlarmController.class.php Á¨¨ 28 Ë°å.
+NOTIC: [8] Undefined index: rows D:\phpstudy_pro\WWW\App\Admin\Controller\AlarmController.class.php Á¨¨ 29 Ë°å.
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:56:02+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: page D:\phpstudy_pro\WWW\App\Admin\Controller\AlarmController.class.php Á¨¨ 28 Ë°å.
+NOTIC: [8] Undefined index: rows D:\phpstudy_pro\WWW\App\Admin\Controller\AlarmController.class.php Á¨¨ 29 Ë°å.
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: limit D:\phpstudy_pro\WWW\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 961 Ë°å.
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:56:02+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:56:09+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:56:09+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:57:25+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:57:25+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:58:12+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:58:12+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:58:33+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:58:33+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:58:58+08:00 ] 127.0.0.1 /Admin/Index/getSideMenu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_system_menu` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_system_menu` WHERE ( hide=0 ) ORDER BY myorder asc  [ RunTime:0.0020s ]
+
+[ 2019-11-05T23:59:00+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2019-11-05T23:59:00+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:59:12+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2019-11-05T23:59:12+08:00 ] 127.0.0.1 /Admin/Alarm/getAlarm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ems_admin_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ems_admin_user` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ems_alarm` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ems_alarm` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `id`,`alarmnumber`,`phonenumber`,`alarminfo` FROM `ems_alarm` LIMIT 0,20   [ RunTime:0.0010s ]
+

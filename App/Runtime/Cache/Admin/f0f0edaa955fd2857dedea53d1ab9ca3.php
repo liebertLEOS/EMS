@@ -1,13 +1,13 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <html>
 <head>
 	<title>南山派出所侦办队管理系统</title>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-COMPATIBLE" content="IE=edge">
 	<meta name="renderer" content="webkit|ie-comp|ie-stand">
-	<link rel="stylesheet" type="text/css" href="__PUBLIC__/easyui/1.5.1/themes/default/easyui.css">
-	<link rel="stylesheet" type="text/css" href="__PUBLIC__/easyui/1.5.1/themes/icon.css">
-	<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/admin.css">
+	<link rel="stylesheet" type="text/css" href="/Public/easyui/1.5.1/themes/default/easyui.css">
+	<link rel="stylesheet" type="text/css" href="/Public/easyui/1.5.1/themes/icon.css">
+	<link rel="stylesheet" type="text/css" href="/Public/css/admin.css">
 </head>
 
 <body class="login" >
@@ -49,9 +49,9 @@
 	</div>
 
 	<!-- script -->
-	<script type="text/javascript" src="__PUBLIC__/easyui/1.5.1/jquery.min.js"></script>
-	<script type="text/javascript" src="__PUBLIC__/easyui/1.5.1/jquery.easyui.min.js"></script>
-	<script type="text/javascript" src="__PUBLIC__/easyui/1.5.1/locale/easyui-lang-zh_CN.js"></script>
-	<script type="text/javascript" src="__PUBLIC__/js/admin/login/login.js"></script>
+	<script type="text/javascript" src="/Public/easyui/1.5.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/Public/easyui/1.5.1/jquery.easyui.min.js"></script>
+	<script type="text/javascript" src="/Public/easyui/1.5.1/locale/easyui-lang-zh_CN.js"></script>
+	<script type="text/javascript" src="/Public/js/admin/login/login.js"></script>
 </body>
 </html>

@@ -1,0 +1,57 @@
+<div id="form-id">
+    <empty name="data">
+    <table style="width:100%; padding:20px 35px;">
+        <tbody>
+        <tr>
+            <td width="30%">反馈时间：</td>
+            <td width="70%"><input name="alarmlogtime" value="{$alarmlogtime}"></td>
+        </tr>
+        <tr>
+            <td>反馈内容：</td>
+            <td><input name="alarmlogcontent" type="text"></td>
+        </tr>
+        </tbody>
+    </table>
+    <script>
+        $('#form-id input[name="alarmlogtime"]').datetimebox({
+            width: '100%',
+            required : true,
+            missingMessage : '请输入时间',
+        });
+        $('#form-id input[name="alarmlogcontent"]').textbox({
+            width : '100%',
+            multiline : true,
+            missingMessage : '请输入用户密码，长度为6~12位',
+            invalidMessage : '密码长度为6~12位',
+            validType:['length[0,255]']
+        });
+    </script>
+    <else/>
+    <table style="width:100%; padding:20px 35px;">
+        <tbody>
+        <tr>
+            <td width="30%">反馈时间：</td>
+            <td width="70%"><input name="alarmlogtime" value="{$data.alarmlogtime}"></td>
+        </tr>
+        <tr>
+            <td>反馈内容：</td>
+            <td><input name="alarmlogcontent" type="text" value={$data.alarmlogcontent}></td>
+        </tr>
+        <input name="id" type="hidden" value="{$data.id}">
+        </tbody>
+    </table>
+    <script>
+        $('#form-id input[name="alarmlogtime"]').datetimebox({
+            width: '100%',
+            required : true,
+        });
+        $('#form-id input[name="alarmlogcontent"]').textbox({
+            width : '100%',
+            multiline : true,
+            missingMessage : '请输入用户密码，长度为6~12位',
+            invalidMessage : '长度为0~255位',
+            validType:['length[0,255]']
+        });
+    </script>
+    </empty>
+</div>

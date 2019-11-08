@@ -44,7 +44,7 @@ class LoginController extends Controller {
 
         // 判断密码是否一致
         if( $user['password'] != user_md5($password, C('DATA_AUTH_KEY')) ){
-            $this->ajaxReturn(array('state'=>0,'msg'=>'密码错误'));
+            $this->ajaxReturn(array('state'=>0,'msg'=>'密码错误！'));
         }
 
         // 获取时间

@@ -1,0 +1,22 @@
+<extend name="Public:frame" />
+<block name="content">
+<div id="main-layout" class="easyui-layout">
+    <div data-options="region:'center',iconCls:'icon-page_white_excel'" title="警情列表">
+        <div style="height:100%;">
+            <div id="alarm-tool" style="padding:10px;">
+                <a href="#" class="easyui-linkbutton" iconCls="icon-add" onclick="alarmTool.add();">添加</a>
+                <a href="#" class="easyui-linkbutton" iconCls="icon-delete" onclick="alarmTool.delete();">删除</a>
+                <a href="#" class="easyui-linkbutton" iconCls="icon-save" onclick="alarmTool.save();">保存</a>
+                <a href="#" class="easyui-linkbutton" iconCls="icon-reload" onclick="alarmTool.reload();">刷新</a>
+            </div>
+
+            <div id="alarm-list"></div>
+        </div>
+    </div>
+</div>
+
+</block>
+
+<block name="script">
+    <script type="text/javascript" src="__PUBLIC__/js/admin/alarm/index.js"></script>
+</block>

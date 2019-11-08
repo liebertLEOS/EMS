@@ -209,7 +209,7 @@ function create_tables($db, $prefix = ''){
 function register_administrator($db, $prefix, $admin, $auth){
     show_msg('开始注册创始人帐号...');
     $sql = "INSERT INTO `[PREFIX]admin_user` VALUES " .
-           "('1', '[NAME]', '[PASS]', '[TIME]', '[EMAIL]', '[TIME]', '', '', '[PIC]', 0, '[IP]', '1', '', '', '')";
+           "('1', '[NAME]', '[PASS]', '[TIME]', '[EMAIL]', '[TIME]', '', '', '[PIC]', 0, '[IP]', '1', '', '', '[TIME]')";
 
     $password = user_md5($admin['password'], $auth);
     $sql = str_replace(

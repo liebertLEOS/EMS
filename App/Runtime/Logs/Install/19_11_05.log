@@ -1,0 +1,7 @@
+[ 2019-11-05T20:57:23+08:00 ] 127.0.0.1 /install.php?s=/install/step2.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2019-11-05T20:57:44+08:00 ] 127.0.0.1 /install.php?s=/install/step3.html
+ERR: 1366:Incorrect integer value: '' for column 'expire' at row 1
+ [ SQL语句 ] : INSERT INTO `ems_admin_user` VALUES ('1', 'admin', 'da4116ac389aed65489de72287dbab6e', '1572958662', 'admin@qq.com', '1572958662', '', '', '/Public/images/no-user.gif', 0, '127.0.0.1', '1', '', '', '')
+

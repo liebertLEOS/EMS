@@ -1,21 +1,36 @@
-<extend name="Public:base" />
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+    <title>南山派出所侦办队管理系统</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <link href="/Public/static/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/Public/static/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/Public/easyui/1.5.1/themes/default/easyui.css">
+    <link rel="stylesheet" type="text/css" href="/Public/easyui/1.5.1/themes/icon.css">
+    
+    <link rel="stylesheet" type="text/css" href="/Public/css/admin.css">
 
 
-<block name="css">
-    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/admin.css">
-</block>
+    <!--[if lt IE 9]>
+    <script src="/Public/static/html5shiv.js"></script>
+    <![endif]-->
 
-<block name="body" >
+</head>
+<body class="easyui-layout" data-options="border:false">
+
+
     <div class="header" data-options="region:'north',noheader:true">
         <div class="header-logo">
             南山派出所侦办队管理系统
         </div>
         <div id="main-header-menu" class="header-menu">
             <a href="javascript:void(0)" id="main-header-menu-user" class="easyui-menubutton"
-               data-options="menu:'#main-header-menu-user-sub',iconCls:'icon-status_online',plain:false">{$user.name}</a>
+               data-options="menu:'#main-header-menu-user-sub',iconCls:'icon-status_online',plain:false"><?php echo ($user["name"]); ?></a>
             <div id="main-header-menu-user-sub">
-                <div data-options="iconCls:'icon-cog'"><a href="javascript:void(0);" onclick="User.setting({$user.id});">修改资料</a></div>
-                <div data-options="iconCls:'icon-door_out'"><a href="{:U('Admin/Login/logout')}">注销登陆</a></div>
+                <div data-options="iconCls:'icon-cog'"><a href="javascript:void(0);" onclick="User.setting(<?php echo ($user["id"]); ?>);">修改资料</a></div>
+                <div data-options="iconCls:'icon-door_out'"><a href="<?php echo U('Admin/Login/logout');?>">注销登陆</a></div>
             </div>
         </div>
     </div>
@@ -32,26 +47,24 @@
                         <caption><h5>运行环境</h5></caption>
                         <tr>
                             <th width="30%">服务器操作系统</th>
-                            <td>{$Think.const.PHP_OS}</td>
+                            <td><?php echo (PHP_OS); ?></td>
                         </tr>
                         <tr>
                             <th>ThinkPHP版本</th>
-                            <td>{$Think.VERSION}</td>
+                            <td><?php echo (THINK_VERSION); ?></td>
                         </tr>
                         <tr>
                             <th>运行环境</th>
-                            <td>{$_SERVER['SERVER_SOFTWARE']}</td>
+                            <td><?php echo ($_SERVER['SERVER_SOFTWARE']); ?></td>
                         </tr>
                         <tr>
                             <th>MYSQL版本</th>
-                            <php>
-                                $system_info_mysql = M()->query("select version() as v;");
-                            </php>
-                            <td>{$system_info_mysql.0.v}</td>
+                            <?php $system_info_mysql = M()->query("select version() as v;"); ?>
+                            <td><?php echo ($system_info_mysql["0"]["v"]); ?></td>
                         </tr>
                         <tr>
                             <th>上传限制</th>
-                            <td>{:ini_get('upload_max_filesize')}</td>
+                            <td><?php echo ini_get('upload_max_filesize');?></td>
                         </tr>
                         <tr>
                             <th>建议浏览器版本</th>
@@ -93,10 +106,15 @@
             </div>
         </div>
     </div>
-</block>
 
 
 <!-- script -->
-<block name="script">
-    <script type="text/javascript" src="__PUBLIC__/js/admin/index/index.js"></script>
-</block>
+<script type="text/javascript" src="/Public/easyui/1.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="/Public/easyui/1.5.1/jquery.easyui.min.js"></script>
+<script type="text/javascript" src="/Public/easyui/1.5.1/locale/easyui-lang-zh_CN.js"></script>
+<script type="text/javascript" src="/Public/static/bootstrap/js/bootstrap.js"></script>
+
+    <script type="text/javascript" src="/Public/js/admin/index/index.js"></script>
+
+</body>
+</html>
